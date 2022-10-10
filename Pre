@@ -15,8 +15,8 @@
     "branded_wallpaper_notification_dismissed": false,
     "brave_ads": {
       "automatically_detected_ads_subdivision_targeting_code": "VN-69",
-      "catalog_id": "da233c19c7dd8a0e50cd6e3824b00266751204a7",
-      "catalog_last_updated": "13309844551106277",
+      "catalog_id": "b58064f9b6780d04514b380ed67c73b4f084e932",
+      "catalog_last_updated": "13309844871638414",
       "catalog_ping": "7200000",
       "catalog_version": 9,
       "client": {
@@ -186,41 +186,41 @@
       },
       "epsilon_greedy_bandit_eligible_segments": {
         "v2": [
+          "untargeted",
+          "Science",
           "Technology & Computing",
+          "Business",
+          "Personal Finance",
+          "crypto",
           "Sports",
-          "Travel",
-          "Arts & Entertainment",
-          "gaming",
           "food & drink",
-          "Law",
+          "Arts & Entertainment",
+          "Mortgage and Refinance",
+          "Hobbies & Interests",
+          "Travel",
+          "Careers",
+          "fashion",
+          "History",
+          "Retail Discounts",
           "Privacy Conscious",
           "Military",
-          "Hobbies & Interests",
-          "Mortgage and Refinance",
           "weather",
-          "Personal Finance",
           "Automotive",
-          "News Digest",
+          "Law",
           "Travel Intenders",
-          "Real Estate",
-          "Science",
-          "fashion",
           "Pets",
+          "Real Estate",
           "Home",
-          "crypto",
-          "Business",
+          "News Digest",
           "Education",
-          "Crypto Purchase Intent",
-          "Crypto Curious",
-          "Retail Discounts",
-          "cell phones",
-          "untargeted",
-          "History",
-          "Careers",
-          "Private Cloud Storage",
           "Crypto NFT",
+          "gaming",
+          "Crypto Curious",
+          "Folklore",
+          "Crypto Purchase Intent",
           "Architecture",
-          "Folklore"
+          "cell phones",
+          "Private Cloud Storage"
         ]
       },
       "has_migrated": {
@@ -393,7 +393,7 @@
           "choices": "[1.0,2.0,3.0,5.0,7.0,10.0,20.0]"
         },
         "payout_status": "{\"bitflyer\":\"processing\",\"gemini\":\"complete\",\"unverified\":\"complete\",\"uphold\":\"processing\"}",
-        "rate": 0.302746,
+        "rate": 0.302671,
         "tip": {
           "choices": "[1.0,5.0,10.0]",
           "monthly_choices": "[1.0,5.0,10.0]"
@@ -405,7 +405,7 @@
       "version": 11,
       "wallets": {
         "brave": "{\"payment_id\":\"78210b77-bb60-4fd2-9655-d0743199c79f\",\"recovery_seed\":\"Zn9cE8qsxy3RFPwtPp1VdtPGao8tOzW2B7N8GMTNbYg=\"}",
-        "uphold": "djEwbEZN93PKjn08Bo+PgKqORVLizyYBZTgzgZShsEk8XJdOzcRHACmwfs4ADbX6vqlKPGl9f+taetQO3sC5fRiMHVyuk6mJb1x4HAheYNJB1M9IX3pUpVSNFVqBHtcdfX8bIkr00lvIz6BJYnpH1EfZFvM52FPa77Ee52UFpKRtLvjCVufJvrmB8zOSiuR22VDZZT2P4KrNNtkWXNVDZLc8O6qdWNJhYEcflQx4bDNGX6hJSu5CBD9v5mQE78c+8OQYp8yoaY4bB2oSKcqnRhVCOwzFgulT3/3+tkF+V1vkNmV+4364jRwOt+oZFyz28Uh+10blkiHYTzHHqNHBEf5QfmhWrANNCZtLK2yCw+N+m+YxcPDTlUdG0lbNnaZBwdmDRNGYnqT150D6mY84CFxsS3ILV5pbRQ4LWhZDiL+z3kpJQLn1SV7WrjtLc7FTH08+9Gd6GoWXHZa6m+jaNLEuQWUHwsDWz3k8O/p1Hkrf1O+ncM69T8f8nAanvMldp47mRC+t10F5LhRP4sVFav4xtEIKAweq73SVZWJOhaCClicrn+Ko+q1B1aBf0aLvDhP/4RZX1mwSuSWE219cOZt5t3CwdhzRhvpgYUxxkB4RwSg+CynFwaRocZLBMmIpJZ4TOBaQa88I+ESRNZ7Yd6VBzoLAaS26OArT2l25CvO/ZuXd4i+Wzl+uc9Vn1GesceX0QCcENQ38u0+a72FmloF/acM2ZucTNPb06zRp/FxfOV69eeG3e6o41ESL40RVXuM="
+        "uphold": "djEwbEKEhzVZh6H89kggMQq4Tg6EU+tdbN6MMDbYanVMoWYWOr9vTdOYpmscmGbcQCejfjlonIQnyzTFvGnczNqP9qAYCm9wH4HeythamkIhHVdWdtO+ADHHiFRHEhG0/nO869z86lsbS4wo5xwEpzUYVB4Bs0zJvRqnQYE0dGuvmr0LcQxIgna8X8H97WxWl5wqDsh34KaxVT4psbu4C6jTNVWjHLVWMi15Pbq+7RZn9IyYrTiEzs4Cn0OzTHpNKzEjtu/dSXct0f/dkmVIf46CFng/8e94wnIwy5n6WI+bSJivwTrOtIsvuwwPwxg7CmOAYKzzh991qFGMpuSQ5PtEkYRB7ao3x2ldb4iCx7ve2DGxdbWfx8s9jcIJPX++SYVFUe/eYMnjwES3QYK8Egrsg87Aec4cLQbtpVq20DK74/FDNN5EqOfs9yhF/XvhGfYhnC42ompW/RYc/JCGsamnKMK4sG2zGePk2D+6CD+qYgejEHqaNf4MIBfoA48gBTL9e0D752sMVB8wCtUJFefKMCSL3JVFdy6IYPVVdI/Dw2lQyDhJbU6k5Cmxu4ZgzV++fwmi/N99nk4xvjPsmG4BetPObwT1y0HgtTSmQ7HXgI2i7KGbQabu+ohJWDD40/YBKyLaeQiVLGe610DCcwPwZoclZQ0xhJgG0UIM8mxhwy/AANL10XQxpTUBZKnpMUkhjgNzeiRzkjVbW9yitgpDBYYyLP/ecyzkqAVSyx6/7C8sTJVDz3xbvMRoDE/Zutg="
       }
     },
     "search": {
@@ -495,7 +495,7 @@
         }
       },
       "wallet_p3a_first_report_time": "13309588688556710",
-      "wallet_p3a_last_report_time": "13309844547846893"
+      "wallet_p3a_last_report_time": "13309844868418727"
     },
     "wayback_machine_enabled": true
   },
@@ -516,10 +516,10 @@
   "browser": {
     "check_default_browser": false,
     "window_placement": {
-      "bottom": 300,
+      "bottom": 611,
       "left": 0,
-      "maximized": true,
-      "right": 516,
+      "maximized": false,
+      "right": 1317,
       "top": 0,
       "work_area_bottom": 1040,
       "work_area_left": 0,
@@ -711,7 +711,7 @@
       {
         "errored_reading": false,
         "tab_count": 2,
-        "time": "13309842800372553",
+        "time": "13309844831458796",
         "type": 1,
         "window_count": 1
       },
@@ -719,19 +719,19 @@
         "did_schedule_command": true,
         "first_session_service": true,
         "tab_count": 2,
-        "time": "13309842816471772",
+        "time": "13309844837780156",
         "type": 2,
         "window_count": 1
       },
       {
         "crashed": false,
-        "time": "13309843674864282",
+        "time": "13309844840548514",
         "type": 0
       },
       {
         "errored_reading": false,
         "tab_count": 2,
-        "time": "13309843674942190",
+        "time": "13309844840623776",
         "type": 1,
         "window_count": 1
       },
@@ -739,19 +739,19 @@
         "did_schedule_command": true,
         "first_session_service": true,
         "tab_count": 2,
-        "time": "13309843683196649",
+        "time": "13309844848147439",
         "type": 2,
         "window_count": 1
       },
       {
         "crashed": false,
-        "time": "13309844363327678",
+        "time": "13309844861016536",
         "type": 0
       },
       {
         "errored_reading": false,
         "tab_count": 2,
-        "time": "13309844363404821",
+        "time": "13309844861091808",
         "type": 1,
         "window_count": 1
       },
@@ -759,19 +759,19 @@
         "did_schedule_command": true,
         "first_session_service": true,
         "tab_count": 2,
-        "time": "13309844369321298",
+        "time": "13309844865204311",
         "type": 2,
         "window_count": 1
       },
       {
         "crashed": false,
-        "time": "13309844547841539",
+        "time": "13309844868413660",
         "type": 0
       },
       {
         "errored_reading": false,
         "tab_count": 2,
-        "time": "13309844547920159",
+        "time": "13309844868488214",
         "type": 1,
         "window_count": 1
       },
@@ -779,7 +779,7 @@
         "did_schedule_command": true,
         "first_session_service": true,
         "tab_count": 2,
-        "time": "13309844553988585",
+        "time": "13309844875386740",
         "type": 2,
         "window_count": 1
       }
