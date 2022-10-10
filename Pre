@@ -16,7 +16,7 @@
     "brave_ads": {
       "automatically_detected_ads_subdivision_targeting_code": "VN-69",
       "catalog_id": "da233c19c7dd8a0e50cd6e3824b00266751204a7",
-      "catalog_last_updated": "13309844366559955",
+      "catalog_last_updated": "13309844551106277",
       "catalog_ping": "7200000",
       "catalog_version": 9,
       "client": {
@@ -363,7 +363,7 @@
     },
     "default_private_search_provider_guid": "485bf7d3-0215-45af-87dc-538868000550",
     "enable_media_router_on_restart": false,
-    "enable_window_closing_confirm": true,
+    "enable_window_closing_confirm": false,
     "new_tab_page": {
       "hide_all_widgets": false
     },
@@ -393,7 +393,7 @@
           "choices": "[1.0,2.0,3.0,5.0,7.0,10.0,20.0]"
         },
         "payout_status": "{\"bitflyer\":\"processing\",\"gemini\":\"complete\",\"unverified\":\"complete\",\"uphold\":\"processing\"}",
-        "rate": 0.302648,
+        "rate": 0.302746,
         "tip": {
           "choices": "[1.0,5.0,10.0]",
           "monthly_choices": "[1.0,5.0,10.0]"
@@ -405,7 +405,7 @@
       "version": 11,
       "wallets": {
         "brave": "{\"payment_id\":\"78210b77-bb60-4fd2-9655-d0743199c79f\",\"recovery_seed\":\"Zn9cE8qsxy3RFPwtPp1VdtPGao8tOzW2B7N8GMTNbYg=\"}",
-        "uphold": "djEwr1nFj0hC2QOAHvkIEOKbkc1b9g8ABKI1OvvvotffxGufxMbE5Vi1ThHEz2nuBHo+Cv1oXVXjXlup5Zfbb0huwStCG3T9KVgTWORHep4iTtuiLd6ycm4OPKgqRmtN7mNII/b3Je0SNtVvbVYDPqHpTNSUowDnd7FotYfAkQlXyuemO6VykWvAzXPa/XLdtPzX6Bh+loo2JJtGh7h72jmV69GhWg82Kx8xMkWwbThxuO9ujx2TRser5cZqet0h7wTe5VJ4pMxqao+83mRaj9It6qzidJhZgqz9iQTIiiW0ljV20zNMiuK572sOD4Vrkn9qFIL+GpDxEUfD8AToX4MxAkR6T0AQxTpTNROnjdVB6WEZBebGgMMvynzTUKFmHOg6DWm8Y8y3UFH1f2p7luJBX1fP4ayBnbnin0Ybm/r++uYw9b2XJGDC0XWfSFro5wsPeFXF87eYmhtits+iZdfUQnmtC5GM9m20CS1Tq0cbkAoCDRCzl9oHi+ao0wga69pCkxu7e/mM14llNmf0MMl/DZo522gkFM2/sa2YcESQTEoadZJPanzVjkChXdYJlK4Fs21qeIzftT5SpHKnzoLbOCnpDhx7QyOg58CFudB3qfDzwk5909pHFXkVeNZeXDjsXTrdqYEFOFguM68GIlMAHp3oHJtwft4FtVjfJ7HOesTmp9mYvP1aVqHExtPvqkz+sVS9V9mcPuBIjAMc8Qqk+u7uT5aahE9kCy0rvGkcn0QfkBsF3zpdPc4+/J2J9qE="
+        "uphold": "djEwbEZN93PKjn08Bo+PgKqORVLizyYBZTgzgZShsEk8XJdOzcRHACmwfs4ADbX6vqlKPGl9f+taetQO3sC5fRiMHVyuk6mJb1x4HAheYNJB1M9IX3pUpVSNFVqBHtcdfX8bIkr00lvIz6BJYnpH1EfZFvM52FPa77Ee52UFpKRtLvjCVufJvrmB8zOSiuR22VDZZT2P4KrNNtkWXNVDZLc8O6qdWNJhYEcflQx4bDNGX6hJSu5CBD9v5mQE78c+8OQYp8yoaY4bB2oSKcqnRhVCOwzFgulT3/3+tkF+V1vkNmV+4364jRwOt+oZFyz28Uh+10blkiHYTzHHqNHBEf5QfmhWrANNCZtLK2yCw+N+m+YxcPDTlUdG0lbNnaZBwdmDRNGYnqT150D6mY84CFxsS3ILV5pbRQ4LWhZDiL+z3kpJQLn1SV7WrjtLc7FTH08+9Gd6GoWXHZa6m+jaNLEuQWUHwsDWz3k8O/p1Hkrf1O+ncM69T8f8nAanvMldp47mRC+t10F5LhRP4sVFav4xtEIKAweq73SVZWJOhaCClicrn+Ko+q1B1aBf0aLvDhP/4RZX1mwSuSWE219cOZt5t3CwdhzRhvpgYUxxkB4RwSg+CynFwaRocZLBMmIpJZ4TOBaQa88I+ESRNZ7Yd6VBzoLAaS26OArT2l25CvO/ZuXd4i+Wzl+uc9Vn1GesceX0QCcENQ38u0+a72FmloF/acM2ZucTNPb06zRp/FxfOV69eeG3e6o41ESL40RVXuM="
       }
     },
     "search": {
@@ -495,7 +495,7 @@
         }
       },
       "wallet_p3a_first_report_time": "13309588688556710",
-      "wallet_p3a_last_report_time": "13309844363333749"
+      "wallet_p3a_last_report_time": "13309844547846893"
     },
     "wayback_machine_enabled": true
   },
@@ -711,26 +711,6 @@
       {
         "errored_reading": false,
         "tab_count": 2,
-        "time": "13309804867686195",
-        "type": 1,
-        "window_count": 1
-      },
-      {
-        "did_schedule_command": true,
-        "first_session_service": true,
-        "tab_count": 2,
-        "time": "13309804870029483",
-        "type": 2,
-        "window_count": 1
-      },
-      {
-        "crashed": false,
-        "time": "13309842800287591",
-        "type": 0
-      },
-      {
-        "errored_reading": false,
-        "tab_count": 2,
         "time": "13309842800372553",
         "type": 1,
         "window_count": 1
@@ -780,6 +760,26 @@
         "first_session_service": true,
         "tab_count": 2,
         "time": "13309844369321298",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309844547841539",
+        "type": 0
+      },
+      {
+        "errored_reading": false,
+        "tab_count": 2,
+        "time": "13309844547920159",
+        "type": 1,
+        "window_count": 1
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 2,
+        "time": "13309844553988585",
         "type": 2,
         "window_count": 1
       }
