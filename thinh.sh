@@ -158,11 +158,11 @@ else
 minPort=10000
 fi
 maxPort=$(( $minPort + $totalProxy ))
-proxyUser="thinh"
+proxyUser="lev"
 proxyPw=$pwProxyIPv6
 for (( i=$minPort; i<${maxPort}; i++ )); do
 if [[ -z "$pwProxyIPv6" ]]; then
-proxyUser="thinh${i}"
+proxyUser="lev${i}"
 proxyPw=$(getRandomString)
 fi
 randomIPv6=$(getRandomIPv6 $prefix $ipv6mask)
@@ -418,11 +418,13 @@ sed -i "/LimitNPROC=/c\LimitNPROC=9999999" /etc/sysctl.conf
 fi
 fi
 echo -e ""
-echo -e "dang tao 700 proxy."
-
-noProxyIPv6=700
+echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 1."
+read noProxyIPv6
+if [[ -z "$noProxyIPv6" ]]; then
+noProxyIPv6=1
 fi
-pwProxyIPv6 = ""
+echo -e "Neu ban muon tao user/pass giong nhau cho tat ca proxy, nhap PASSWORD vao ben duoi. BO TRONG neu muon tao password ngau nhien."
+read pwProxyIPv6
 generateData $noProxyIPv6 $ipv4 $prefix $ipv6mask $pwProxyIPv6 >> $WORKDATA
 generateFirewall
 generateProxyConfig $pwProxyIPv6
