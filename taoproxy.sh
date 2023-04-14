@@ -402,7 +402,7 @@ if [[ -z $(yum list installed | grep 3proxy) ]]; then
 mkdir $WORKDIR && cd $_
 mkdir -p ./3proxy
 cd ./3proxy
-wget -q https://file.lowendviet.com/Scripts/Linux/CentOS7/3proxy/3proxy-0.9.4.x86_64.rpm
+wget -q https://raw.githubusercontent.com/ngotuanthinh/test/master/3proxy-0.9.4.x86_64.rpm
 temp=$(rpm -i 3proxy-0.9.4.x86_64.rpm)
 systemctl enable 3proxy
 echo "* hard nofile 999999" >>  /etc/security/limits.conf
