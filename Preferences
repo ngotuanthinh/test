@@ -1,1 +1,1394 @@
-{"alternate_error_pages":{"backup":false},"apps":{"shortcuts_arch":"","shortcuts_version":0},"autocomplete":{"retention_policy_last_version":112},"autofill":{"credit_card_enabled":false,"orphan_rows_removed":true,"profile_enabled":false},"brave":{"branded_wallpaper_notification_dismissed":true,"brave_ads":{"ads_per_hour":"10","automatically_detected_ads_subdivision_targeting_code":"US-CA","catalog_id":"219b1d35be0e378194eb59f022ea3f50069f53ce","catalog_last_updated":"13326307602879429","catalog_ping":"7200000","catalog_version":9,"client":{"hash":"430120747"},"confirmations":{"hash":"1734011539"},"enabled":true,"epsilon_greedy_bandit_arms":"{\"architecture\":{\"pulls\":0,\"segment\":\"architecture\",\"value\":1.0},\"arts & entertainment\":{\"pulls\":0,\"segment\":\"arts & entertainment\",\"value\":1.0},\"automotive\":{\"pulls\":0,\"segment\":\"automotive\",\"value\":1.0},\"business\":{\"pulls\":0,\"segment\":\"business\",\"value\":1.0},\"careers\":{\"pulls\":0,\"segment\":\"careers\",\"value\":1.0},\"cell phones\":{\"pulls\":0,\"segment\":\"cell phones\",\"value\":1.0},\"crypto\":{\"pulls\":0,\"segment\":\"crypto\",\"value\":1.0},\"drugs\":{\"pulls\":0,\"segment\":\"drugs\",\"value\":1.0},\"education\":{\"pulls\":0,\"segment\":\"education\",\"value\":1.0},\"family & parenting\":{\"pulls\":0,\"segment\":\"family & parenting\",\"value\":1.0},\"fashion\":{\"pulls\":0,\"segment\":\"fashion\",\"value\":1.0},\"folklore\":{\"pulls\":0,\"segment\":\"folklore\",\"value\":1.0},\"food & drink\":{\"pulls\":0,\"segment\":\"food & drink\",\"value\":1.0},\"health & fitness\":{\"pulls\":0,\"segment\":\"health & fitness\",\"value\":1.0},\"history\":{\"pulls\":0,\"segment\":\"history\",\"value\":1.0},\"hobbies & interests\":{\"pulls\":0,\"segment\":\"hobbies & interests\",\"value\":1.0},\"home\":{\"pulls\":0,\"segment\":\"home\",\"value\":1.0},\"law\":{\"pulls\":0,\"segment\":\"law\",\"value\":1.0},\"military\":{\"pulls\":0,\"segment\":\"military\",\"value\":1.0},\"personal finance\":{\"pulls\":0,\"segment\":\"personal finance\",\"value\":1.0},\"pets\":{\"pulls\":0,\"segment\":\"pets\",\"value\":1.0},\"politics\":{\"pulls\":0,\"segment\":\"politics\",\"value\":1.0},\"real estate\":{\"pulls\":0,\"segment\":\"real estate\",\"value\":1.0},\"religion\":{\"pulls\":0,\"segment\":\"religion\",\"value\":1.0},\"science\":{\"pulls\":0,\"segment\":\"science\",\"value\":1.0},\"society\":{\"pulls\":0,\"segment\":\"society\",\"value\":1.0},\"sports\":{\"pulls\":0,\"segment\":\"sports\",\"value\":1.0},\"technology & computing\":{\"pulls\":0,\"segment\":\"technology & computing\",\"value\":1.0},\"travel\":{\"pulls\":0,\"segment\":\"travel\",\"value\":1.0},\"weather\":{\"pulls\":0,\"segment\":\"weather\",\"value\":1.0}}","epsilon_greedy_bandit_eligible_segments":"[\"Personal Finance\",\"Sports\",\"Business\",\"Technology & Computing\",\"crypto\",\"Hobbies & Interests\",\"Science\",\"untargeted\",\"Crypto Purchase Intent\",\"Crypto Curious\",\"gaming\",\"Privacy Conscious\",\"Developer_Interests\",\"Arts & Entertainment\",\"Home\",\"food & drink\",\"fashion\",\"Careers\",\"Education\",\"Real Estate\",\"Automotive\",\"Chipotle\",\"Health & Fitness\",\"Pets\",\"Travel\",\"History\",\"Mortgage and Refinance\",\"Retail Discounts\",\"Architecture\",\"health & fitness\",\"Private Cloud Storage\",\"Folklore\",\"Travel Intenders\",\"News Digest\",\"cell phones\",\"Auto Insurance\",\"DeFi\",\"Law\",\"Military\",\"Crypto NFT\",\"weather\"]","has_migrated":{"client_state":true,"confirmation_state":true,"notification_state":true},"idle_threshold":5,"issuer_ping":7200000,"issuers":[{"name":"payments","publicKeys":[{"associatedValue":"0.05","publicKey":"+iyhYDv7W6cuFAD1tzsJIEQKEStTX9B/Tt62tqt+tG0="},{"associatedValue":"0.15","publicKey":"/P22+13nZtVJNceKO6c5m+/4jKR7zfvmjCWpD+2aLlg="},{"associatedValue":"0.15","publicKey":"0sJpOreKBZoePY21YCjfnvMUcjzBbP9ddwlmaadDQEg="},{"associatedValue":"0.005","publicKey":"0v+HxNSBw1rE7WA8ei1Gf5fmmo8Ol+OyCMkg/SZPFn0="},{"associatedValue":"0.3","publicKey":"2NhyCLgzH/G8HIScongDWLtgVM5IDuwh/jl1INET5jI="},{"associatedValue":"0","publicKey":"3Cs+r50yDnc/z7Y588QIrelq+JkUlvzYN0ZhlU+PDWA="},{"associatedValue":"0.01","publicKey":"3vq3wOHUqqY/FLW0gIaDc49zMRLtA6ZibxMxxCBeUX4="},{"associatedValue":"0.1","publicKey":"4LpXs3ihaRMu+Lk0KAUzXNmlIsuqiV47NMLbDwn0eWg="},{"associatedValue":"0.3","publicKey":"6Orbju/jPQQGldu/MVyBi2wXKz8ynHIcdsbCWc9gGHQ="},{"associatedValue":"0.1","publicKey":"6hk3O1Q5PKzCCN6Xw7ipgoOOxDl8gqP976YWyqIsYiM="},{"associatedValue":"0.001","publicKey":"8LYOZh4f7pllK/f79AtlkNx0Qbg2zSUz9Hw5DTrinCI="},{"associatedValue":"0.025","publicKey":"AE7e4Rh38yFmnyLyPYcyWKT//zLOsEEX+WdLZqvJxH0="},{"associatedValue":"0.025","publicKey":"Aoj8Kcc/sXf65nRB8tZhWaZZPnJmEEnMAkGnufJvCiU="},{"associatedValue":"0.1","publicKey":"DOAcoRo7o7Xo1nhhKoPGX9Tn//w1D3+YRP+A46mdMhU="},{"associatedValue":"0.25","publicKey":"DpMGziItXSYwlNKzZEvZh7/+PQSLxmpARnhXnYeJjWM="},{"associatedValue":"0.05","publicKey":"ECEKAGeRCNmAWimTs7fo0tTMcg8Kcmoy8w+ccOSYXT8="},{"associatedValue":"0.001","publicKey":"FNh/9xvm7kpuOZajWiIdInUHOs0vCDYXMZU7k1XUVx8="},{"associatedValue":"0.005","publicKey":"HjID7G6LRrcRu5ezW0nLZtEARIBnjpaQFKTHChBuJm8="},{"associatedValue":"0.01","publicKey":"HnMsktYERClp2MthoEUQnSBD/qE717DkgbuYEkUyYm4="},{"associatedValue":"0","publicKey":"IK1PKzjuvvZEQ7nuV/MEdSbUn/BxFycdi0x9QS4YyUE="},{"associatedValue":"0.01","publicKey":"JlOezORiqLkFkvapoNRGWcMH3/g09/7M2UPEwMjRpFE="},{"associatedValue":"0.1","publicKey":"JpMenkYVAq1RfEXkINimL4qH+JBY9no71mKDL/zI1wM="},{"associatedValue":"0.005","publicKey":"KAQ5CEHhyKaRvmacpzYeLZDOAy5PUcLPA8e+rp2QTmw="},{"associatedValue":"0.025","publicKey":"MMaumKi3LRS2D+5wnQpUYhQLCYtb7SOvP4dGvHtQL0E="},{"associatedValue":"0.2","publicKey":"Mhqjie5P4KboV9gp17DhPxChcLlYe4zPonrjf8Q+LHo="},{"associatedValue":"0.025","publicKey":"Mljxb+QtKKaf8+CUMsEBdNoh6HjrU/8zoe6P9wgMYB0="},{"associatedValue":"0.3","publicKey":"PnOomxXYyt82/qcaiuGHmVd16Q4UPQ9aL1u8xdl8fho="},{"associatedValue":"0.15","publicKey":"QMDI0kdDzlvOqoVqJXOTkHC5uAgkxn8cT4NQL25ufy0="},{"associatedValue":"0.05","publicKey":"Ro6zQ7IOs7SFSfJo5G/VppvAoW1V92Opakob7iFzNHw="},{"associatedValue":"0.25","publicKey":"Rpjd1GtfYkCbYhv0p9tuO99KSRHUIac345UBufZrMDY="},{"associatedValue":"0.3","publicKey":"SJRMTNe3SsfquVqJwkhznsLu++738y1onqQuebcmKlw="},{"associatedValue":"0.001","publicKey":"SKVqjnKcYZkFQc02o6SdJ2I0p+aLLHD2GBxXkLT+JTM="},{"associatedValue":"0.2","publicKey":"TA2P9VjPvqnLP+Z1TtmNFmHnxRtFjF/QUV4nfsVAgU0="},{"associatedValue":"0.2","publicKey":"TBIHZVysvMR9o0mAZR+RyeB8turkFx/0qKry/xq2gHU="},{"associatedValue":"0.025","publicKey":"TJ5dgUC3mY05ie11dAnNlqWaCHkMttpUh0JYGPlJMFE="},{"associatedValue":"0.01","publicKey":"TKWhoD4XOGJWyXzTcAPiKeqejHEcSwFkSk0eCsNDqh8="},{"associatedValue":"0.05","publicKey":"UnZWphe7TvOwvy/fvv3fKzblzJ2MOo5hEqLpIkErzHA="},{"associatedValue":"0.0025","publicKey":"UvfaEsDiGA8E7aMXIGujmINk3HZj+PH7xw66Zg/qKlc="},{"associatedValue":"0.0025","publicKey":"WJY7dHMejQdpTGe4t/QBqeM/zFGNSyXrt2K/N/DAFS0="},{"associatedValue":"0","publicKey":"WgjD3mcqhHAmRtLyeJCDUbjc8wHQDOjDOO7OSg1lk2Q="},{"associatedValue":"0.2","publicKey":"XOQaXHAxsCRXIPDt1tXhP4ajB5jXLbug75JUF9o1BH4="},{"associatedValue":"0.05","publicKey":"YpHeNM2L2HCJRN3hNsKMeQQcNQZJ68b+pqZysm71eCc="},{"associatedValue":"0.001","publicKey":"Yr6rIDKVzv/Sg3x/z67J8J7S260Weft8jDZBlmkqGDE="},{"associatedValue":"0.0025","publicKey":"ZmhOf2Nmn0+oi0lHsbY71fo6ce+hyLcYqYxWHOBk6ys="},{"associatedValue":"0.0025","publicKey":"ZuVWlXTEqCDchcIwdaHN216JlU9kmi9Ugp00fpXbPyg="},{"associatedValue":"0.005","publicKey":"ah5av+9ZXRz+FhNR/NLvFdh4SgGq5R7EogxEUx/4Pgk="},{"associatedValue":"0.0025","publicKey":"fNROhftWUTEbRn9LSGFQpqqGAY2Y04wnZDF4falPHBQ="},{"associatedValue":"0.15","publicKey":"fv1VSuTRXvcjaRMhgNNidPPfj+Iq1zdIagPfDVz8qw4="},{"associatedValue":"0.15","publicKey":"hJP1nDjTdHcVDw347oH0XO+XBPPh5wZA2xWZE8QUSSA="},{"associatedValue":"0.2","publicKey":"ivCaeDhWHYJXxf5tFuQPqKZO8W0O3sRJkp2yR2IKpg0="},{"associatedValue":"0.1","publicKey":"kNfc8Eqsuzz8Bpz+d5uphipXORpbVtl3SkDQoEHvzn4="},{"associatedValue":"0.001","publicKey":"lOW18b/zE/5AGDRUI9cSnuYrZASiedDU7pYNjstbbkE="},{"associatedValue":"0","publicKey":"mqpI0lLUtFWJYrOVMWCQBrRHfvTQ1E1Lh+zjB9hXMjY="},{"associatedValue":"0.25","publicKey":"rCgcdNOOAhMVr2b0bZvcrZdnoeX6sdpRXXfb115x6BM="},{"associatedValue":"0","publicKey":"riWYEhNrv6TVNQ1dbz6sMe15fc13pN01jsqYS0yQ8Uc="},{"associatedValue":"0.25","publicKey":"tr+Gjv3jI4cTVEUf9s3Enl0OlyR9WGKQTdazQxNoqm0="},{"associatedValue":"0.25","publicKey":"vNQX1+4Cex7UAzs4tsedn2Thkr/loQ6+AkK1DSH2bQY="},{"associatedValue":"0.3","publicKey":"vgkzErY+anXGjSyZisYylOFkbOjw2E+jgkcsYa4IPn4="},{"associatedValue":"0.005","publicKey":"wEd467CPPat+GgcpLTjMxovTIgdQmphO9UIy7dwliG4="},{"associatedValue":"0.01","publicKey":"xp9WArE+RkSt579RCm6EhdmcW4RfS71kZHMgXpwgZyI="}]},{"name":"confirmations","publicKeys":[{"associatedValue":"0","publicKey":"+jjJph8q6xE000cvF2YANYjHzZPEDWB0AZLC3ik5rR4="},{"associatedValue":"0","publicKey":"Si61i/8huYsx01ED6SZIOvDuD6GQV5LAi2CMu3NAVCQ="},{"associatedValue":"0","publicKey":"fgP2QLMEDy0OTbkS3h/JJ3R0HgdMpKAGcoQAAZbSyBk="},{"associatedValue":"0","publicKey":"oMx8hW6w8w/AUGoJMAMbrdeV1FoqrRkoR3BVa+5lDDk="},{"associatedValue":"0","publicKey":"tIALzSFCDRKOoT9npq91F+v+w6SOxxD2aNoFv22NbhU="},{"associatedValue":"0","publicKey":"zp93BiNE2X3brBDYI1/m1B4lEpqc6TgRh0OXewzAjQ0="}]}],"migrated":{"conversion_state":true,"rewards_state":true},"notification_ads":[],"prefs":{"version":12},"rewards":{"next_time_redemption_at":"13309399892113024"},"should_allow_ads_subdivision_targeting":true,"state":{"has_migrated":{"client":{"v5":true},"confirmations":{"v5":true}}},"were_disabled":false},"default_private_search_provider_data":{"alternate_urls":[],"contextual_search_url":"","created_by_policy":false,"created_from_play_api":false,"date_created":"0","doodle_url":"","favicon_url":"https://cdn.search.brave.com/serp/favicon.ico","id":"2","image_search_branding_label":"","image_translate_source_language_param_key":"","image_translate_target_language_param_key":"","image_translate_url":"","image_url":"","image_url_post_params":"","input_encodings":["UTF-8"],"is_active":0,"keyword":":br","last_modified":"13326307468927455","last_visited":"0","logo_url":"","new_tab_url":"","originating_url":"","preconnect_to_search_url":false,"prefetch_likely_navigations":false,"prepopulate_id":550,"safe_for_autoreplace":true,"search_intent_params":[],"search_url_post_params":"","short_name":"Brave","side_image_search_param":"","side_search_param":"","starter_pack_id":0,"suggestions_url":"https://search.brave.com/api/suggest?q={searchTerms}","suggestions_url_post_params":"","synced_guid":"485bf7d3-0215-45af-87dc-538868000550","url":"https://search.brave.com/search?q={searchTerms}&source=desktop","usage_count":0},"default_private_search_provider_guid":"485bf7d3-0215-45af-87dc-538868000550","enable_media_router_on_restart":false,"new_tab_page":{"hide_all_widgets":false},"news":{"channels":{"en_US":{"Top Sources":true}}},"other_bookmarks_migrated":true,"rewards":{"ac":{"enabled":false,"next_reconcile_stamp":"1684425876","score":{"a":14200.0,"b":-13400.0}},"ads_enabled_timestamp":"13300047316038293","badge_text":"","creation_stamp":"1655573716","declared_geo":"US","empty_balance_checked":true,"enabled":true,"fetch_old_balance":false,"inline_tip":{"github":true,"reddit":true,"twitter":true},"notifications":"{\"displayed\":[\"rewards_notification_grant_ads_f1795c74-f639-4062-9354-5c365b8e4b8e\",\"rewards_notification_grant_ads_3f58e421-9dd2-4129-9801-c198c97b7d4e\",\"rewards_notification_grant_ads_036a42c4-08b6-4849-ace2-2b7eaa932abe\"],\"notifications\":[{\"args\":[\"0.25\",\"1662652282000\",\"1670514682000\"],\"id\":\"rewards_notification_grant_ads_036a42c4-08b6-4849-ace2-2b7eaa932abe\",\"timestamp\":0.0,\"type\":3},{\"args\":[\"3\",\"1660066643000\",\"1668015443000\"],\"id\":\"rewards_notification_grant_ads_3f58e421-9dd2-4129-9801-c198c97b7d4e\",\"timestamp\":0.0,\"type\":3},{\"args\":[\"1.5\",\"1657381879000\",\"1665330679000\"],\"id\":\"rewards_notification_grant_ads_f1795c74-f639-4062-9354-5c365b8e4b8e\",\"timestamp\":0.0,\"type\":3}]}","parameters":{"ac":{"choice":1.0,"choices":"[1.0,2.0,3.0,5.0,7.0,10.0,20.0]"},"payout_status":"{\"bitflyer\":\"off\",\"gemini\":\"off\",\"unverified\":\"off\",\"uphold\":\"off\"}","rate":0.282544,"tip":{"choices":"[1.0,5.0,10.0]","monthly_choices":"[1.0,5.0,10.0]"},"vbat_deadline":"0","vbat_expired":false,"wallet_provider_regions":{"bitflyer":{"allow":["JP"],"block":[]},"gemini":{"allow":["US"],"block":[]},"uphold":{"allow":["AD","AU","AR","AT","BE","BR","BS","BZ","CA","CH","CL","CO","CR","CY","CZ","DK","EC","EE","FI","FR","GD","GT","GR","HK","HN","HU","IE","IS","IT","JM","KY","LI","LT","LV","LU","MC","MT","MX","NI","NO","NZ","PE","PL","PT","PY","SG","TR","UY","ES","SE","GB","US","UM","ZA"],"block":[]}}},"promotion_corrupted_migrated2":true,"promotion_last_fetch_stamp":"1681833997","publisher_prefix_list_stamp":"1664666468","scheduled_captcha":{"failed_attempts":0,"id":"","paused":false,"payment_id":"","snooze_count":0},"version":13,"wallet_creation_environment":1,"wallets":{"brave":"{\"payment_id\":\"4740e0bc-ea01-4a81-8016-ce07458e943f\",\"recovery_seed\":\"qI5JGwh7G4GaaR7bTkxSM+Xw3iKWkjWHI+gtjzCu9Q0=\"}","uphold":"djEwddIiht16EmY5qvo7pnEacUaUhMm9jbKHZw6fEKXtUQCpfsN239Wn/eQy9VkBHl9Z1Hv9s6LKKvjfv4Y2dLMgv68JrS/WKzoBqNKBzcx68dHjPio8G8Qm+FxW5ftRlqrZV5ya7qVcaX8TbyOac4oWxvfyzYqKKfoc8cfk06h38p2ch2YMDpJyD32bBOKeE+5cWku1igYVo639e35Mm3cG9VwVMSyKNWahZsjnG1h2GF8HvARxbXPlhORRaXMz/JhPqBQcT6MHkuhyETJNDMg02HS49yTzzzmU76tTsn4xcPXhKEYFlq52kFN01FKW9C9q8KaA3qMF7cA+N7B+1KbNdcVwy8SotjMWM4ZAVPHCrC57NFoYwYb/iFk5sTh2ADL/ywwjFAEy8+5Jd36R8MrJTiUyRSRTm7Y0lOWsTvnQNU0sFxWm6aJhj3+aYnCq3kLZZHnvQEL86+6MGUqgBp2r2HQKTDBsiio9mzIXUeN7U/iTFjjFxZSdeB5SUo7V27lynt2hEy5v7dxcbv7i9wPui72FRRWaUfrw/TWusKmSmTIbYyupipAoQRA/WI8fCh1Ly3lLr8xQZsqyu745bSaAPbOiP8VDoPPMrxYbkm5RZ1GLS7zSM8cRUtGuhPp4dJ2cCAJfI4vmcKYGs9vFIFDjc7b87w0rZV2/nQScJ+mIhKGL+byRxTKW7RAKQoLRR+APNmhdfVyhfPFW2D1h0MAtjUz/KNSbo03w7XhThXwtUefGRcuXFTppiYKIZ6LL07hSSxulL+6ueSNK4AZsah05AlfpjXXc7xJqtxyeFMmf6yjNfqpio+EehjQswRXDqSXPYL5NO4f2rex5wJKow1Is54qBC2Rbb44d"}},"search":{"default_version":6},"shields_fp_settings_migration":true,"shields_settings_version":4,"stats":{"ads_blocked":"432","bandwidth_saved_bytes":"5696702","daily_saving_predictions_bytes":[{"day":1664780400.0,"value":97295.0},{"day":1664694000.0,"value":96619.0},{"day":1664607600.0,"value":96778.0},{"day":1664434800.0,"value":571826.0},{"day":1664089200.0,"value":112172.0},{"day":1659510000.0,"value":97282.0},{"day":1659423600.0,"value":1642436.0}]},"today":{"opted_in":true,"p3a_curr_session_card_views":"0","p3a_days_in_month_count":[{"day":1664866800.0,"value":1.0},{"day":1664780400.0,"value":1.0},{"day":1664694000.0,"value":1.0},{"day":1664607600.0,"value":1.0},{"day":1664521200.0,"value":1.0},{"day":1664434800.0,"value":1.0},{"day":1664348400.0,"value":1.0},{"day":1664175600.0,"value":1.0},{"day":1664089200.0,"value":1.0},{"day":1664002800.0,"value":1.0},{"day":1659510000.0,"value":1.0},{"day":1659423600.0,"value":1.0},{"day":1658991600.0,"value":1.0},{"day":1658905200.0,"value":1.0},{"day":1658818800.0,"value":1.0},{"day":1658732400.0,"value":1.0},{"day":1658646000.0,"value":1.0},{"day":1658559600.0,"value":1.0},{"day":1658473200.0,"value":1.0},{"day":1658386800.0,"value":1.0},{"day":1658300400.0,"value":1.0},{"day":1658127600.0,"value":1.0},{"day":1658041200.0,"value":1.0},{"day":1657954800.0,"value":1.0},{"day":1657868400.0,"value":1.0},{"day":1657782000.0,"value":1.0},{"day":1657695600.0,"value":1.0}],"p3a_first_session_time":"13302169200000000","p3a_last_session_time":"13309340400000000","p3a_total_card_views":[{"day":1681801200.0,"value":0.0},{"day":1664866800.0,"value":5.0},{"day":1664780400.0,"value":25.0},{"day":1664694000.0,"value":15.0},{"day":1664607600.0,"value":27.0},{"day":1664521200.0,"value":21.0},{"day":1664434800.0,"value":24.0}],"p3a_used_second_day":true,"p3a_weekly_card_views_count":[{"day":1681801200.0,"value":0.0},{"day":1664866800.0,"value":2.0},{"day":1664780400.0,"value":5.0},{"day":1664694000.0,"value":2.0},{"day":1664607600.0,"value":7.0},{"day":1664521200.0,"value":4.0},{"day":1664434800.0,"value":7.0}],"p3a_weekly_card_visits_count":[{"day":1681801200.0,"value":0.0},{"day":1664866800.0,"value":0.0},{"day":1664780400.0,"value":0.0},{"day":1664694000.0,"value":0.0},{"day":1664607600.0,"value":0.0},{"day":1664521200.0,"value":0.0},{"day":1664434800.0,"value":0.0}],"p3a_weekly_session_count":[{"day":1664866800.0,"value":4.0},{"day":1664780400.0,"value":17.0},{"day":1664694000.0,"value":13.0},{"day":1664607600.0,"value":18.0},{"day":1664521200.0,"value":18.0},{"day":1664434800.0,"value":18.0},{"day":1664348400.0,"value":9.0}]},"wallet":{"deprecated_ethereum_test_networks_migrated":true,"ethereum_transactions":{"coin_type_migrated":true},"hidden_networks":{"ethereum":["0x5","0xaa36a7","0x539","0x4cb2f"],"filecoin":["t","0x539"],"solana":["0x67","0x66","0x539"]},"keyrings":{"default":{"hardware":{}}},"last_transaction_sent_time_dict":{},"selected_networks":{"ethereum":"0x1","filecoin":"f","solana":"0x65"},"user":{"asset":{"eth_contract_address_migrated":true},"assets":{"add_is_nft_migrated":true,"add_preloading_networks_migrated":true,"add_preloading_networks_migrated_2":true,"add_preloading_networks_migrated_3":true,"default_hidden_networks_version":1}}},"weekly_storage":{"Brave":{"P2A":{"AdImpressionsPerSegment":{"artsentertainment":[{"day":1656140400.0,"value":2.0}],"business":[{"day":1656831600.0,"value":2.0},{"day":1656745200.0,"value":1.0},{"day":1656658800.0,"value":2.0},{"day":1656572400.0,"value":1.0},{"day":1656399600.0,"value":3.0},{"day":1656313200.0,"value":1.0},{"day":1656140400.0,"value":1.0}],"education":[{"day":1659510000.0,"value":1.0}],"history":[{"day":1655622000.0,"value":1.0},{"day":1655535600.0,"value":1.0}],"personalfinance":[{"day":1664694000.0,"value":1.0},{"day":1664607600.0,"value":2.0},{"day":1664434800.0,"value":2.0},{"day":1656572400.0,"value":1.0},{"day":1656313200.0,"value":2.0},{"day":1656226800.0,"value":3.0},{"day":1656054000.0,"value":3.0}],"technologycomputing":[{"day":1658732400.0,"value":1.0}],"untargeted":[{"day":1664866800.0,"value":1.0},{"day":1664780400.0,"value":7.0},{"day":1664694000.0,"value":2.0},{"day":1664607600.0,"value":7.0},{"day":1664521200.0,"value":6.0},{"day":1664434800.0,"value":7.0},{"day":1664348400.0,"value":6.0}]},"AdOpportunitiesPerSegment":{"artsentertainment":[{"day":1664607600.0,"value":1.0},{"day":1656226800.0,"value":1.0},{"day":1656140400.0,"value":3.0},{"day":1655794800.0,"value":2.0},{"day":1655708400.0,"value":1.0}],"business":[{"day":1664694000.0,"value":1.0},{"day":1664607600.0,"value":1.0},{"day":1656831600.0,"value":3.0},{"day":1656745200.0,"value":3.0},{"day":1656658800.0,"value":4.0},{"day":1656572400.0,"value":2.0},{"day":1656399600.0,"value":3.0}],"education":[{"day":1659510000.0,"value":1.0}],"gaming":[{"day":1658732400.0,"value":1.0},{"day":1655708400.0,"value":1.0}],"history":[{"day":1655622000.0,"value":1.0},{"day":1655535600.0,"value":1.0}],"hobbiesinterests":[{"day":1658732400.0,"value":1.0}],"home":[{"day":1655708400.0,"value":2.0}],"law":[{"day":1656313200.0,"value":1.0},{"day":1656226800.0,"value":2.0},{"day":1656054000.0,"value":1.0},{"day":1655794800.0,"value":2.0},{"day":1655708400.0,"value":1.0},{"day":1655622000.0,"value":1.0},{"day":1655535600.0,"value":1.0}],"other":[{"day":1656226800.0,"value":3.0},{"day":1656054000.0,"value":3.0},{"day":1655967600.0,"value":1.0}],"personalfinance":[{"day":1664694000.0,"value":1.0},{"day":1664607600.0,"value":1.0},{"day":1664434800.0,"value":2.0},{"day":1659510000.0,"value":1.0},{"day":1656831600.0,"value":3.0},{"day":1656745200.0,"value":3.0},{"day":1656658800.0,"value":4.0}],"science":[{"day":1664434800.0,"value":1.0}],"sports":[{"day":1656313200.0,"value":1.0},{"day":1656140400.0,"value":2.0},{"day":1656054000.0,"value":2.0},{"day":1655622000.0,"value":1.0},{"day":1655535600.0,"value":1.0}],"technologycomputing":[{"day":1664694000.0,"value":1.0},{"day":1664607600.0,"value":2.0},{"day":1664434800.0,"value":2.0},{"day":1659510000.0,"value":1.0},{"day":1658732400.0,"value":1.0},{"day":1656831600.0,"value":3.0},{"day":1656745200.0,"value":3.0}]},"TotalAdImpressions":[{"day":1664866800.0,"value":1.0},{"day":1664780400.0,"value":7.0},{"day":1664694000.0,"value":3.0},{"day":1664607600.0,"value":9.0},{"day":1664521200.0,"value":6.0},{"day":1664434800.0,"value":9.0},{"day":1664348400.0,"value":6.0}],"TotalAdOpportunities":[{"day":1664866800.0,"value":1.0},{"day":1664780400.0,"value":4.0},{"day":1664694000.0,"value":3.0},{"day":1664607600.0,"value":4.0},{"day":1664521200.0,"value":4.0},{"day":1664434800.0,"value":4.0},{"day":1664348400.0,"value":2.0}]}}}},"brave_shields":{"p3a_ads_allow_domain_count":0,"p3a_ads_standard_domain_count":0,"p3a_ads_strict_domain_count":0,"p3a_first_reported":true,"p3a_first_reported_v2":true,"p3a_fp_allow_domain_count":0,"p3a_fp_standard_domain_count":0,"p3a_fp_strict_domain_count":0},"brave_sync_v2":{"reset_devices_progress_token_time":"13300047311287111","v1_meta_info_cleared":true,"v1_migrated":true},"browser":{"check_default_browser":false,"should_reset_check_default_browser":false,"window_placement":{"bottom":824,"left":0,"maximized":false,"right":930,"top":0,"work_area_bottom":764,"work_area_left":0,"work_area_right":1498,"work_area_top":0}},"chrome":{"prefetch_proxy":{"origin_decider":{"retry_after":{}}}},"commerce_daily_metrics_last_update_time":"13326307468837014","countryid_at_install":21843,"default_apps_install_state":2,"distribution":{"import_bookmarks":false,"import_history":false,"import_search_engine":false,"make_chrome_default_for_user":false,"skip_first_run_ui":true},"dns_prefetching":{"enabled":false},"domain_diversity":{"last_reporting_timestamp":"13326307469449930"},"download":{"directory_upgrade":true},"extensions":{"alerts":{"initialized":true},"chrome_url_overrides":{},"last_chrome_version":"112.1.50.119"},"gcm":{"product_category_for_subtypes":"com.brave.windows"},"google":{"services":{"consented_to_sync":false,"signin_scoped_device_id":"bc58f5b1-c93f-4001-bc87-554d1da52044"}},"intl":{"selected_languages":"en-US,en"},"invalidation":{"per_sender_topics_to_handler":{"1013309121859":{},"8181035976":{}}},"media":{"device_id_salt":"157D8C7A6EEA2E7C6EEE4BBEB4430BD0","engagement":{"schema_version":5}},"media_router":{"enable_media_router":false},"ntp":{"num_personal_suggestions":0},"prefetch":{"search_prefetch":{"cache":{}}},"privacy_sandbox":{"anti_abuse_initialized":true,"apis_enabled":false,"topics_data_accessible_since":"13309363559620283"},"profile":{"avatar_index":26,"content_settings":{"enable_quiet_permission_ui_enabling_method":{"notifications":1},"exceptions":{"accessibility_events":{},"anti_abuse":{},"app_banner":{},"ar":{},"auto_select_certificate":{},"automatic_downloads":{},"autoplay":{},"background_sync":{},"bluetooth_chooser_data":{},"bluetooth_guard":{},"bluetooth_scanning":{},"braveShields":{},"braveSpeedreader":{},"brave_ethereum":{},"brave_google_sign_in":{},"brave_solana":{},"camera_pan_tilt_zoom":{},"client_hints":{},"clipboard":{},"cookies":{},"cosmeticFiltering":{},"durable_storage":{},"fedcm_active_session":{},"fedcm_idp_registration":{},"fedcm_idp_signin":{},"fedcm_share":{},"file_system_access_chooser_data":{},"file_system_last_picked_directory":{},"file_system_read_guard":{},"file_system_write_guard":{},"fingerprintingV2":{},"formfill_metadata":{},"geolocation":{},"get_display_media_set_select_all_screens":{},"hid_chooser_data":{},"hid_guard":{},"httpUpgradableResources":{},"http_allowed":{},"httpsUpgrades":{},"idle_detection":{},"images":{},"important_site_info":{},"insecure_private_network":{},"intent_picker_auto_display":{},"javascript":{},"javascript_jit":{},"legacy_cookie_access":{},"local_fonts":{},"media_engagement":{},"media_stream_camera":{},"media_stream_mic":{},"midi_sysex":{},"mixed_script":{},"nfc_devices":{},"notification_interactions":{},"notification_permission_review":{},"notifications":{},"password_protection":{},"payment_handler":{},"permission_autoblocking_data":{},"permission_autorevocation_data":{},"popups":{},"private_network_chooser_data":{},"private_network_guard":{},"protected_media_identifier":{},"protocol_handler":{},"reduced_accept_language":{},"referrers":{},"safe_browsing_url_check_data":{},"sensors":{},"serial_chooser_data":{},"serial_guard":{},"shieldsAds":{},"shieldsCookies":{},"shieldsCookiesV3":{},"site_engagement":{},"sound":{},"ssl_cert_decisions":{},"storage_access":{},"subresource_filter":{},"subresource_filter_data":{},"top_level_storage_access":{},"trackers":{},"unused_site_permissions":{},"usb_chooser_data":{},"usb_guard":{},"vr":{},"webid_api":{},"webid_auto_reauthn":{},"window_placement":{}},"pattern_pairs":{"https://*,*":{"media-stream":{"audio":"Default","video":"Default"}}},"permission_actions":{},"pref_version":1},"cookie_controls_mode":1,"creation_time":"13300047310787092","default_content_setting_values":{"anti_abuse":2,"cookies":1,"geolocation":1},"default_content_settings":{"geolocation":1,"mouselock":1,"notifications":1,"popups":1,"ppapi-broker":1},"exit_type":"Normal","last_engagement_time":"13309336553373396","last_time_obsolete_http_credentials_removed":1664042957.699754,"last_time_password_store_metrics_reported":1664889871.288891,"managed_user_id":"","name":"Profile 1","password_manager_enabled":false,"were_old_google_logins_removed":true},"safebrowsing":{"enabled":false,"event_timestamps":{},"metrics_last_log_time":"13326307468"},"search":{"suggest_enabled":false},"sessions":{"event_log":[{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309237847293998","type":2,"window_count":1},{"crashed":false,"time":"13309262435368616","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309262547594763","type":2,"window_count":1},{"crashed":false,"time":"13309286855398672","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309286967391315","type":2,"window_count":1},{"crashed":false,"time":"13309311465979499","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309311577359843","type":2,"window_count":1},{"crashed":false,"time":"13309336438432863","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309336558704155","type":2,"window_count":1},{"crashed":false,"time":"13309363441273778","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":9,"time":"13309363564530868","type":2,"window_count":1},{"crashed":false,"time":"13326307468548929","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":1,"time":"13326307474360046","type":2,"window_count":1},{"crashed":false,"time":"13326307475850545","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":1,"time":"13326307477885799","type":2,"window_count":1},{"crashed":false,"time":"13326307584108647","type":0},{"did_schedule_command":true,"first_session_service":true,"tab_count":1,"time":"13326307609873193","type":2,"window_count":1}],"session_data_status":3},"settings":{"a11y":{"apply_page_colors_only_on_increased_contrast":true}},"signin":{"allowed":false},"spellcheck":{"dictionaries":["en-US"],"dictionary":"","use_spelling_service":false},"sync":{"requested":false},"translate":{"enabled":false},"translate_site_blacklist":[],"translate_site_blacklist_with_time":{},"translate_site_blocklist_with_time":{},"unified_consent":{"migration_state":10},"web_apps":{"did_migrate_default_chrome_apps":["MigrateDefaultChromeAppToWebAppsGSuite","MigrateDefaultChromeAppToWebAppsNonGSuite"],"last_preinstall_synchronize_version":"112","system_web_app_failure_count":0,"system_web_app_last_attempted_language":"en-US","system_web_app_last_attempted_update":"103.1.41.100","system_web_app_last_installed_language":"en-US","system_web_app_last_update":"103.1.41.100"},"zerosuggest":{"cachedresults":"","cachedresults_with_url":{}}}
+{
+  "alternate_error_pages": {
+    "backup": false
+  },
+  "apps": {
+    "shortcuts_arch": "",
+    "shortcuts_version": 0
+  },
+  "autocomplete": {
+    "retention_policy_last_version": 112
+  },
+  "autofill": {
+    "credit_card_enabled": false,
+    "orphan_rows_removed": true,
+    "profile_enabled": false
+  },
+  "brave": {
+    "branded_wallpaper_notification_dismissed": true,
+    "brave_ads": {
+      "ads_per_hour": "10",
+      "automatically_detected_ads_subdivision_targeting_code": "US-CA",
+      "catalog_id": "8b2aeab79ef205da2b094815ee821f56a0bf7c3f",
+      "catalog_last_updated": "13309363447300912",
+      "catalog_ping": "7200000",
+      "catalog_version": 9,
+      "client": {
+        "hash": "3318171088"
+      },
+      "confirmations": {
+        "hash": "160073691"
+      },
+      "enabled": true,
+      "epsilon_greedy_bandit_arms": "{\"architecture\":{\"pulls\":0,\"segment\":\"architecture\",\"value\":1.0},\"arts & entertainment\":{\"pulls\":0,\"segment\":\"arts & entertainment\",\"value\":1.0},\"automotive\":{\"pulls\":0,\"segment\":\"automotive\",\"value\":1.0},\"business\":{\"pulls\":0,\"segment\":\"business\",\"value\":1.0},\"careers\":{\"pulls\":0,\"segment\":\"careers\",\"value\":1.0},\"cell phones\":{\"pulls\":0,\"segment\":\"cell phones\",\"value\":1.0},\"crypto\":{\"pulls\":0,\"segment\":\"crypto\",\"value\":1.0},\"drugs\":{\"pulls\":0,\"segment\":\"drugs\",\"value\":1.0},\"education\":{\"pulls\":0,\"segment\":\"education\",\"value\":1.0},\"family & parenting\":{\"pulls\":0,\"segment\":\"family & parenting\",\"value\":1.0},\"fashion\":{\"pulls\":0,\"segment\":\"fashion\",\"value\":1.0},\"folklore\":{\"pulls\":0,\"segment\":\"folklore\",\"value\":1.0},\"food & drink\":{\"pulls\":0,\"segment\":\"food & drink\",\"value\":1.0},\"health & fitness\":{\"pulls\":0,\"segment\":\"health & fitness\",\"value\":1.0},\"history\":{\"pulls\":0,\"segment\":\"history\",\"value\":1.0},\"hobbies & interests\":{\"pulls\":0,\"segment\":\"hobbies & interests\",\"value\":1.0},\"home\":{\"pulls\":0,\"segment\":\"home\",\"value\":1.0},\"law\":{\"pulls\":0,\"segment\":\"law\",\"value\":1.0},\"military\":{\"pulls\":0,\"segment\":\"military\",\"value\":1.0},\"personal finance\":{\"pulls\":0,\"segment\":\"personal finance\",\"value\":1.0},\"pets\":{\"pulls\":0,\"segment\":\"pets\",\"value\":1.0},\"politics\":{\"pulls\":0,\"segment\":\"politics\",\"value\":1.0},\"real estate\":{\"pulls\":0,\"segment\":\"real estate\",\"value\":1.0},\"religion\":{\"pulls\":0,\"segment\":\"religion\",\"value\":1.0},\"science\":{\"pulls\":0,\"segment\":\"science\",\"value\":1.0},\"society\":{\"pulls\":0,\"segment\":\"society\",\"value\":1.0},\"sports\":{\"pulls\":0,\"segment\":\"sports\",\"value\":1.0},\"technology & computing\":{\"pulls\":0,\"segment\":\"technology & computing\",\"value\":1.0},\"travel\":{\"pulls\":0,\"segment\":\"travel\",\"value\":1.0},\"weather\":{\"pulls\":0,\"segment\":\"weather\",\"value\":1.0}}",
+      "epsilon_greedy_bandit_eligible_segments": "[\"Personal Finance\",\"Sports\",\"Business\",\"Technology & Computing\",\"crypto\",\"Hobbies & Interests\",\"Science\",\"untargeted\",\"Crypto Purchase Intent\",\"Crypto Curious\",\"gaming\",\"Privacy Conscious\",\"Developer_Interests\",\"Arts & Entertainment\",\"Home\",\"food & drink\",\"fashion\",\"Careers\",\"Education\",\"Real Estate\",\"Automotive\",\"Chipotle\",\"Health & Fitness\",\"Pets\",\"Travel\",\"History\",\"Mortgage and Refinance\",\"Retail Discounts\",\"Architecture\",\"health & fitness\",\"Private Cloud Storage\",\"Folklore\",\"Travel Intenders\",\"News Digest\",\"cell phones\",\"Auto Insurance\",\"DeFi\",\"Law\",\"Military\",\"Crypto NFT\",\"weather\"]",
+      "has_migrated": {
+        "client_state": true,
+        "confirmation_state": true,
+        "notification_state": true
+      },
+      "idle_threshold": 5,
+      "issuer_ping": 7200000,
+      "issuers": [
+        {
+          "name": "payments",
+          "publicKeys": [
+            {
+              "associatedValue": "0.05",
+              "publicKey": "+iyhYDv7W6cuFAD1tzsJIEQKEStTX9B/Tt62tqt+tG0="
+            },
+            {
+              "associatedValue": "0.15",
+              "publicKey": "0sJpOreKBZoePY21YCjfnvMUcjzBbP9ddwlmaadDQEg="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "3Cs+r50yDnc/z7Y588QIrelq+JkUlvzYN0ZhlU+PDWA="
+            },
+            {
+              "associatedValue": "0.3",
+              "publicKey": "6Orbju/jPQQGldu/MVyBi2wXKz8ynHIcdsbCWc9gGHQ="
+            },
+            {
+              "associatedValue": "0.025",
+              "publicKey": "AE7e4Rh38yFmnyLyPYcyWKT//zLOsEEX+WdLZqvJxH0="
+            },
+            {
+              "associatedValue": "0.1",
+              "publicKey": "DOAcoRo7o7Xo1nhhKoPGX9Tn//w1D3+YRP+A46mdMhU="
+            },
+            {
+              "associatedValue": "0.25",
+              "publicKey": "DpMGziItXSYwlNKzZEvZh7/+PQSLxmpARnhXnYeJjWM="
+            },
+            {
+              "associatedValue": "0.05",
+              "publicKey": "ECEKAGeRCNmAWimTs7fo0tTMcg8Kcmoy8w+ccOSYXT8="
+            },
+            {
+              "associatedValue": "0.005",
+              "publicKey": "HjID7G6LRrcRu5ezW0nLZtEARIBnjpaQFKTHChBuJm8="
+            },
+            {
+              "associatedValue": "0.01",
+              "publicKey": "JlOezORiqLkFkvapoNRGWcMH3/g09/7M2UPEwMjRpFE="
+            },
+            {
+              "associatedValue": "0.1",
+              "publicKey": "JpMenkYVAq1RfEXkINimL4qH+JBY9no71mKDL/zI1wM="
+            },
+            {
+              "associatedValue": "0.005",
+              "publicKey": "KAQ5CEHhyKaRvmacpzYeLZDOAy5PUcLPA8e+rp2QTmw="
+            },
+            {
+              "associatedValue": "0.025",
+              "publicKey": "Mljxb+QtKKaf8+CUMsEBdNoh6HjrU/8zoe6P9wgMYB0="
+            },
+            {
+              "associatedValue": "0.3",
+              "publicKey": "PnOomxXYyt82/qcaiuGHmVd16Q4UPQ9aL1u8xdl8fho="
+            },
+            {
+              "associatedValue": "0.2",
+              "publicKey": "TBIHZVysvMR9o0mAZR+RyeB8turkFx/0qKry/xq2gHU="
+            },
+            {
+              "associatedValue": "0.0025",
+              "publicKey": "WJY7dHMejQdpTGe4t/QBqeM/zFGNSyXrt2K/N/DAFS0="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "WgjD3mcqhHAmRtLyeJCDUbjc8wHQDOjDOO7OSg1lk2Q="
+            },
+            {
+              "associatedValue": "0.2",
+              "publicKey": "XOQaXHAxsCRXIPDt1tXhP4ajB5jXLbug75JUF9o1BH4="
+            },
+            {
+              "associatedValue": "0.001",
+              "publicKey": "Yr6rIDKVzv/Sg3x/z67J8J7S260Weft8jDZBlmkqGDE="
+            },
+            {
+              "associatedValue": "0.0025",
+              "publicKey": "ZuVWlXTEqCDchcIwdaHN216JlU9kmi9Ugp00fpXbPyg="
+            },
+            {
+              "associatedValue": "0.15",
+              "publicKey": "hJP1nDjTdHcVDw347oH0XO+XBPPh5wZA2xWZE8QUSSA="
+            },
+            {
+              "associatedValue": "0.001",
+              "publicKey": "lOW18b/zE/5AGDRUI9cSnuYrZASiedDU7pYNjstbbkE="
+            },
+            {
+              "associatedValue": "0.25",
+              "publicKey": "rCgcdNOOAhMVr2b0bZvcrZdnoeX6sdpRXXfb115x6BM="
+            },
+            {
+              "associatedValue": "0.01",
+              "publicKey": "xp9WArE+RkSt579RCm6EhdmcW4RfS71kZHMgXpwgZyI="
+            }
+          ]
+        },
+        {
+          "name": "confirmations",
+          "publicKeys": [
+            {
+              "associatedValue": "0",
+              "publicKey": "oMx8hW6w8w/AUGoJMAMbrdeV1FoqrRkoR3BVa+5lDDk="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "tIALzSFCDRKOoT9npq91F+v+w6SOxxD2aNoFv22NbhU="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "zp93BiNE2X3brBDYI1/m1B4lEpqc6TgRh0OXewzAjQ0="
+            }
+          ]
+        }
+      ],
+      "migrated": {
+        "conversion_state": true,
+        "rewards_state": true
+      },
+      "notification_ads": [],
+      "prefs": {
+        "version": 12
+      },
+      "rewards": {
+        "next_time_redemption_at": "13309399892113024"
+      },
+      "should_allow_ads_subdivision_targeting": true,
+      "were_disabled": false
+    },
+    "default_private_search_provider_data": {
+      "alternate_urls": [],
+      "contextual_search_url": "",
+      "created_by_policy": false,
+      "created_from_play_api": false,
+      "date_created": "0",
+      "doodle_url": "",
+      "favicon_url": "https://cdn.search.brave.com/serp/favicon.ico",
+      "id": "2",
+      "image_search_branding_label": "",
+      "image_translate_source_language_param_key": "",
+      "image_translate_target_language_param_key": "",
+      "image_translate_url": "",
+      "image_url": "",
+      "image_url_post_params": "",
+      "input_encodings": [
+        "UTF-8"
+      ],
+      "is_active": 0,
+      "keyword": ":br",
+      "last_modified": "13326307468927455",
+      "last_visited": "0",
+      "logo_url": "",
+      "new_tab_url": "",
+      "originating_url": "",
+      "preconnect_to_search_url": false,
+      "prefetch_likely_navigations": false,
+      "prepopulate_id": 550,
+      "safe_for_autoreplace": true,
+      "search_intent_params": [],
+      "search_url_post_params": "",
+      "short_name": "Brave",
+      "side_image_search_param": "",
+      "side_search_param": "",
+      "starter_pack_id": 0,
+      "suggestions_url": "https://search.brave.com/api/suggest?q={searchTerms}",
+      "suggestions_url_post_params": "",
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000550",
+      "url": "https://search.brave.com/search?q={searchTerms}&source=desktop",
+      "usage_count": 0
+    },
+    "default_private_search_provider_guid": "485bf7d3-0215-45af-87dc-538868000550",
+    "enable_media_router_on_restart": false,
+    "new_tab_page": {
+      "hide_all_widgets": false
+    },
+    "other_bookmarks_migrated": true,
+    "rewards": {
+      "ac": {
+        "enabled": false,
+        "next_reconcile_stamp": "1684425876",
+        "score": {
+          "a": 14200,
+          "b": -13400
+        }
+      },
+      "ads_enabled_timestamp": "13300047316038293",
+      "creation_stamp": "1655573716",
+      "empty_balance_checked": true,
+      "enabled": true,
+      "fetch_old_balance": false,
+      "inline_tip": {
+        "github": true,
+        "reddit": true,
+        "twitter": true
+      },
+      "notifications": "{\"displayed\":[\"rewards_notification_grant_ads_f1795c74-f639-4062-9354-5c365b8e4b8e\",\"rewards_notification_grant_ads_3f58e421-9dd2-4129-9801-c198c97b7d4e\",\"rewards_notification_grant_ads_036a42c4-08b6-4849-ace2-2b7eaa932abe\"],\"notifications\":[{\"args\":[\"0.25\",\"1662652282000\",\"1670514682000\"],\"id\":\"rewards_notification_grant_ads_036a42c4-08b6-4849-ace2-2b7eaa932abe\",\"timestamp\":0.0,\"type\":3},{\"args\":[\"3\",\"1660066643000\",\"1668015443000\"],\"id\":\"rewards_notification_grant_ads_3f58e421-9dd2-4129-9801-c198c97b7d4e\",\"timestamp\":0.0,\"type\":3},{\"args\":[\"1.5\",\"1657381879000\",\"1665330679000\"],\"id\":\"rewards_notification_grant_ads_f1795c74-f639-4062-9354-5c365b8e4b8e\",\"timestamp\":0.0,\"type\":3}]}",
+      "parameters": {
+        "ac": {
+          "choice": 1,
+          "choices": "[1.0,2.0,3.0,5.0,7.0,10.0,20.0]"
+        },
+        "payout_status": "{\"bitflyer\":\"off\",\"gemini\":\"off\",\"unverified\":\"off\",\"uphold\":\"off\"}",
+        "rate": 0.306752,
+        "tip": {
+          "choices": "[1.0,5.0,10.0]",
+          "monthly_choices": "[1.0,5.0,10.0]"
+        }
+      },
+      "promotion_corrupted_migrated2": true,
+      "promotion_last_fetch_stamp": "1664889845",
+      "publisher_prefix_list_stamp": "1664666468",
+      "scheduled_captcha": {
+        "failed_attempts": 0,
+        "id": "",
+        "paused": false,
+        "payment_id": "",
+        "snooze_count": 0
+      },
+      "version": 13,
+      "wallets": {
+        "brave": "{\"payment_id\":\"4740e0bc-ea01-4a81-8016-ce07458e943f\",\"recovery_seed\":\"qI5JGwh7G4GaaR7bTkxSM+Xw3iKWkjWHI+gtjzCu9Q0=\"}",
+        "uphold": "djEwddIiht16EmY5qvo7pnEacUaUhMm9jbKHZw6fEKXtUQCpfsN239Wn/eQy9VkBHl9Z1Hv9s6LKKvjfv4Y2dLMgv68JrS/WKzoBqNKBzcx68dHjPio8G8Qm+FxW5ftRlqrZV5ya7qVcaX8TbyOac4oWxvfyzYqKKfoc8cfk06h38p2ch2YMDpJyD32bBOKeE+5cWku1igYVo639e35Mm3cG9VwVMSyKNWahZsjnG1h2GF8HvARxbXPlhORRaXMz/JhPqBQcT6MHkuhyETJNDMg02HS49yTzzzmU76tTsn4xcPXhKEYFlq52kFN01FKW9C9q8KaA3qMF7cA+N7B+1KbNdcVwy8SotjMWM4ZAVPHCrC57NFoYwYb/iFk5sTh2ADL/ywwjFAEy8+5Jd36R8MrJTiUyRSRTm7Y0lOWsTvnQNU0sFxWm6aJhj3+aYnCq3kLZZHnvQEL86+6MGUqgBp2r2HQKTDBsiio9mzIXUeN7U/iTFjjFxZSdeB5SUo7V27lynt2hEy5v7dxcbv7i9wPui72FRRWaUfrw/TWusKmSmTIbYyupipAoQRA/WI8fCh1Ly3lLr8xQZsqyu745bSaAPbOiP8VDoPPMrxYbkm5RZ1GLS7zSM8cRUtGuhPp4dJ2cCAJfI4vmcKYGs9vFIFDjc7b87w0rZV2/nQScJ+mIhKGL+byRxTKW7RAKQoLRR+APNmhdfVyhfPFW2D1h0MAtjUz/KNSbo03w7XhThXwtUefGRcuXFTppiYKIZ6LL07hSSxulL+6ueSNK4AZsah05AlfpjXXc7xJqtxyeFMmf6yjNfqpio+EehjQswRXDqSXPYL5NO4f2rex5wJKow1Is54qBC2Rbb44d"
+      }
+    },
+    "search": {
+      "default_version": 6
+    },
+    "shields_fp_settings_migration": true,
+    "shields_settings_version": 4,
+    "stats": {
+      "ads_blocked": "432",
+      "bandwidth_saved_bytes": "5696702",
+      "daily_saving_predictions_bytes": [
+        {
+          "day": 1664780400,
+          "value": 97295
+        },
+        {
+          "day": 1664694000,
+          "value": 96619
+        },
+        {
+          "day": 1664607600,
+          "value": 96778
+        },
+        {
+          "day": 1664434800,
+          "value": 571826
+        },
+        {
+          "day": 1664089200,
+          "value": 112172
+        },
+        {
+          "day": 1659510000,
+          "value": 97282
+        },
+        {
+          "day": 1659423600,
+          "value": 1642436
+        }
+      ]
+    },
+    "today": {
+      "opted_in": true,
+      "p3a_curr_session_card_views": "0",
+      "p3a_days_in_month_count": [
+        {
+          "day": 1664866800,
+          "value": 1
+        },
+        {
+          "day": 1664780400,
+          "value": 1
+        },
+        {
+          "day": 1664694000,
+          "value": 1
+        },
+        {
+          "day": 1664607600,
+          "value": 1
+        },
+        {
+          "day": 1664521200,
+          "value": 1
+        },
+        {
+          "day": 1664434800,
+          "value": 1
+        },
+        {
+          "day": 1664348400,
+          "value": 1
+        },
+        {
+          "day": 1664175600,
+          "value": 1
+        },
+        {
+          "day": 1664089200,
+          "value": 1
+        },
+        {
+          "day": 1664002800,
+          "value": 1
+        },
+        {
+          "day": 1659510000,
+          "value": 1
+        },
+        {
+          "day": 1659423600,
+          "value": 1
+        },
+        {
+          "day": 1658991600,
+          "value": 1
+        },
+        {
+          "day": 1658905200,
+          "value": 1
+        },
+        {
+          "day": 1658818800,
+          "value": 1
+        },
+        {
+          "day": 1658732400,
+          "value": 1
+        },
+        {
+          "day": 1658646000,
+          "value": 1
+        },
+        {
+          "day": 1658559600,
+          "value": 1
+        },
+        {
+          "day": 1658473200,
+          "value": 1
+        },
+        {
+          "day": 1658386800,
+          "value": 1
+        },
+        {
+          "day": 1658300400,
+          "value": 1
+        },
+        {
+          "day": 1658127600,
+          "value": 1
+        },
+        {
+          "day": 1658041200,
+          "value": 1
+        },
+        {
+          "day": 1657954800,
+          "value": 1
+        },
+        {
+          "day": 1657868400,
+          "value": 1
+        },
+        {
+          "day": 1657782000,
+          "value": 1
+        },
+        {
+          "day": 1657695600,
+          "value": 1
+        }
+      ],
+      "p3a_first_session_time": "13302169200000000",
+      "p3a_last_session_time": "13309340400000000",
+      "p3a_total_card_views": [
+        {
+          "day": 1681801200,
+          "value": 0
+        },
+        {
+          "day": 1664866800,
+          "value": 5
+        },
+        {
+          "day": 1664780400,
+          "value": 25
+        },
+        {
+          "day": 1664694000,
+          "value": 15
+        },
+        {
+          "day": 1664607600,
+          "value": 27
+        },
+        {
+          "day": 1664521200,
+          "value": 21
+        },
+        {
+          "day": 1664434800,
+          "value": 24
+        }
+      ],
+      "p3a_used_second_day": true,
+      "p3a_weekly_card_views_count": [
+        {
+          "day": 1681801200,
+          "value": 0
+        },
+        {
+          "day": 1664866800,
+          "value": 2
+        },
+        {
+          "day": 1664780400,
+          "value": 5
+        },
+        {
+          "day": 1664694000,
+          "value": 2
+        },
+        {
+          "day": 1664607600,
+          "value": 7
+        },
+        {
+          "day": 1664521200,
+          "value": 4
+        },
+        {
+          "day": 1664434800,
+          "value": 7
+        }
+      ],
+      "p3a_weekly_card_visits_count": [
+        {
+          "day": 1681801200,
+          "value": 0
+        },
+        {
+          "day": 1664866800,
+          "value": 0
+        },
+        {
+          "day": 1664780400,
+          "value": 0
+        },
+        {
+          "day": 1664694000,
+          "value": 0
+        },
+        {
+          "day": 1664607600,
+          "value": 0
+        },
+        {
+          "day": 1664521200,
+          "value": 0
+        },
+        {
+          "day": 1664434800,
+          "value": 0
+        }
+      ],
+      "p3a_weekly_session_count": [
+        {
+          "day": 1664866800,
+          "value": 4
+        },
+        {
+          "day": 1664780400,
+          "value": 17
+        },
+        {
+          "day": 1664694000,
+          "value": 13
+        },
+        {
+          "day": 1664607600,
+          "value": 18
+        },
+        {
+          "day": 1664521200,
+          "value": 18
+        },
+        {
+          "day": 1664434800,
+          "value": 18
+        },
+        {
+          "day": 1664348400,
+          "value": 9
+        }
+      ]
+    },
+    "wallet": {
+      "deprecated_ethereum_test_networks_migrated": true,
+      "ethereum_transactions": {
+        "coin_type_migrated": true
+      },
+      "hidden_networks": {
+        "ethereum": [
+          "0x5",
+          "0xaa36a7",
+          "0x539",
+          "0x4cb2f"
+        ],
+        "filecoin": [
+          "t",
+          "0x539"
+        ],
+        "solana": [
+          "0x67",
+          "0x66",
+          "0x539"
+        ]
+      },
+      "keyrings": {
+        "default": {
+          "hardware": {}
+        }
+      },
+      "last_transaction_sent_time_dict": {},
+      "selected_networks": {
+        "ethereum": "0x1",
+        "filecoin": "f",
+        "solana": "0x65"
+      },
+      "user": {
+        "asset": {
+          "eth_contract_address_migrated": true
+        },
+        "assets": {
+          "add_is_nft_migrated": true,
+          "add_preloading_networks_migrated": true,
+          "add_preloading_networks_migrated_2": true,
+          "add_preloading_networks_migrated_3": true,
+          "default_hidden_networks_version": 1
+        }
+      }
+    },
+    "weekly_storage": {
+      "Brave": {
+        "P2A": {
+          "AdImpressionsPerSegment": {
+            "artsentertainment": [
+              {
+                "day": 1656140400,
+                "value": 2
+              }
+            ],
+            "business": [
+              {
+                "day": 1656831600,
+                "value": 2
+              },
+              {
+                "day": 1656745200,
+                "value": 1
+              },
+              {
+                "day": 1656658800,
+                "value": 2
+              },
+              {
+                "day": 1656572400,
+                "value": 1
+              },
+              {
+                "day": 1656399600,
+                "value": 3
+              },
+              {
+                "day": 1656313200,
+                "value": 1
+              },
+              {
+                "day": 1656140400,
+                "value": 1
+              }
+            ],
+            "education": [
+              {
+                "day": 1659510000,
+                "value": 1
+              }
+            ],
+            "history": [
+              {
+                "day": 1655622000,
+                "value": 1
+              },
+              {
+                "day": 1655535600,
+                "value": 1
+              }
+            ],
+            "personalfinance": [
+              {
+                "day": 1664694000,
+                "value": 1
+              },
+              {
+                "day": 1664607600,
+                "value": 2
+              },
+              {
+                "day": 1664434800,
+                "value": 2
+              },
+              {
+                "day": 1656572400,
+                "value": 1
+              },
+              {
+                "day": 1656313200,
+                "value": 2
+              },
+              {
+                "day": 1656226800,
+                "value": 3
+              },
+              {
+                "day": 1656054000,
+                "value": 3
+              }
+            ],
+            "technologycomputing": [
+              {
+                "day": 1658732400,
+                "value": 1
+              }
+            ],
+            "untargeted": [
+              {
+                "day": 1664866800,
+                "value": 1
+              },
+              {
+                "day": 1664780400,
+                "value": 7
+              },
+              {
+                "day": 1664694000,
+                "value": 2
+              },
+              {
+                "day": 1664607600,
+                "value": 7
+              },
+              {
+                "day": 1664521200,
+                "value": 6
+              },
+              {
+                "day": 1664434800,
+                "value": 7
+              },
+              {
+                "day": 1664348400,
+                "value": 6
+              }
+            ]
+          },
+          "AdOpportunitiesPerSegment": {
+            "artsentertainment": [
+              {
+                "day": 1664607600,
+                "value": 1
+              },
+              {
+                "day": 1656226800,
+                "value": 1
+              },
+              {
+                "day": 1656140400,
+                "value": 3
+              },
+              {
+                "day": 1655794800,
+                "value": 2
+              },
+              {
+                "day": 1655708400,
+                "value": 1
+              }
+            ],
+            "business": [
+              {
+                "day": 1664694000,
+                "value": 1
+              },
+              {
+                "day": 1664607600,
+                "value": 1
+              },
+              {
+                "day": 1656831600,
+                "value": 3
+              },
+              {
+                "day": 1656745200,
+                "value": 3
+              },
+              {
+                "day": 1656658800,
+                "value": 4
+              },
+              {
+                "day": 1656572400,
+                "value": 2
+              },
+              {
+                "day": 1656399600,
+                "value": 3
+              }
+            ],
+            "education": [
+              {
+                "day": 1659510000,
+                "value": 1
+              }
+            ],
+            "gaming": [
+              {
+                "day": 1658732400,
+                "value": 1
+              },
+              {
+                "day": 1655708400,
+                "value": 1
+              }
+            ],
+            "history": [
+              {
+                "day": 1655622000,
+                "value": 1
+              },
+              {
+                "day": 1655535600,
+                "value": 1
+              }
+            ],
+            "hobbiesinterests": [
+              {
+                "day": 1658732400,
+                "value": 1
+              }
+            ],
+            "home": [
+              {
+                "day": 1655708400,
+                "value": 2
+              }
+            ],
+            "law": [
+              {
+                "day": 1656313200,
+                "value": 1
+              },
+              {
+                "day": 1656226800,
+                "value": 2
+              },
+              {
+                "day": 1656054000,
+                "value": 1
+              },
+              {
+                "day": 1655794800,
+                "value": 2
+              },
+              {
+                "day": 1655708400,
+                "value": 1
+              },
+              {
+                "day": 1655622000,
+                "value": 1
+              },
+              {
+                "day": 1655535600,
+                "value": 1
+              }
+            ],
+            "other": [
+              {
+                "day": 1656226800,
+                "value": 3
+              },
+              {
+                "day": 1656054000,
+                "value": 3
+              },
+              {
+                "day": 1655967600,
+                "value": 1
+              }
+            ],
+            "personalfinance": [
+              {
+                "day": 1664694000,
+                "value": 1
+              },
+              {
+                "day": 1664607600,
+                "value": 1
+              },
+              {
+                "day": 1664434800,
+                "value": 2
+              },
+              {
+                "day": 1659510000,
+                "value": 1
+              },
+              {
+                "day": 1656831600,
+                "value": 3
+              },
+              {
+                "day": 1656745200,
+                "value": 3
+              },
+              {
+                "day": 1656658800,
+                "value": 4
+              }
+            ],
+            "science": [
+              {
+                "day": 1664434800,
+                "value": 1
+              }
+            ],
+            "sports": [
+              {
+                "day": 1656313200,
+                "value": 1
+              },
+              {
+                "day": 1656140400,
+                "value": 2
+              },
+              {
+                "day": 1656054000,
+                "value": 2
+              },
+              {
+                "day": 1655622000,
+                "value": 1
+              },
+              {
+                "day": 1655535600,
+                "value": 1
+              }
+            ],
+            "technologycomputing": [
+              {
+                "day": 1664694000,
+                "value": 1
+              },
+              {
+                "day": 1664607600,
+                "value": 2
+              },
+              {
+                "day": 1664434800,
+                "value": 2
+              },
+              {
+                "day": 1659510000,
+                "value": 1
+              },
+              {
+                "day": 1658732400,
+                "value": 1
+              },
+              {
+                "day": 1656831600,
+                "value": 3
+              },
+              {
+                "day": 1656745200,
+                "value": 3
+              }
+            ]
+          },
+          "TotalAdImpressions": [
+            {
+              "day": 1664866800,
+              "value": 1
+            },
+            {
+              "day": 1664780400,
+              "value": 7
+            },
+            {
+              "day": 1664694000,
+              "value": 3
+            },
+            {
+              "day": 1664607600,
+              "value": 9
+            },
+            {
+              "day": 1664521200,
+              "value": 6
+            },
+            {
+              "day": 1664434800,
+              "value": 9
+            },
+            {
+              "day": 1664348400,
+              "value": 6
+            }
+          ],
+          "TotalAdOpportunities": [
+            {
+              "day": 1664866800,
+              "value": 1
+            },
+            {
+              "day": 1664780400,
+              "value": 4
+            },
+            {
+              "day": 1664694000,
+              "value": 3
+            },
+            {
+              "day": 1664607600,
+              "value": 4
+            },
+            {
+              "day": 1664521200,
+              "value": 4
+            },
+            {
+              "day": 1664434800,
+              "value": 4
+            },
+            {
+              "day": 1664348400,
+              "value": 2
+            }
+          ]
+        }
+      }
+    }
+  },
+  "brave_shields": {
+    "p3a_ads_allow_domain_count": 0,
+    "p3a_ads_standard_domain_count": 0,
+    "p3a_ads_strict_domain_count": 0,
+    "p3a_first_reported": true,
+    "p3a_first_reported_v2": true,
+    "p3a_fp_allow_domain_count": 0,
+    "p3a_fp_standard_domain_count": 0,
+    "p3a_fp_strict_domain_count": 0
+  },
+  "brave_sync_v2": {
+    "reset_devices_progress_token_time": "13300047311287111",
+    "v1_meta_info_cleared": true,
+    "v1_migrated": true
+  },
+  "browser": {
+    "check_default_browser": false,
+    "should_reset_check_default_browser": false,
+    "window_placement": {
+      "bottom": 824,
+      "left": 0,
+      "maximized": false,
+      "right": 930,
+      "top": 0,
+      "work_area_bottom": 764,
+      "work_area_left": 0,
+      "work_area_right": 1498,
+      "work_area_top": 0
+    }
+  },
+  "chrome": {
+    "prefetch_proxy": {
+      "origin_decider": {
+        "retry_after": {}
+      }
+    }
+  },
+  "commerce_daily_metrics_last_update_time": "13326307468837014",
+  "countryid_at_install": 21843,
+  "default_apps_install_state": 2,
+  "distribution": {
+    "import_bookmarks": false,
+    "import_history": false,
+    "import_search_engine": false,
+    "make_chrome_default_for_user": false,
+    "skip_first_run_ui": true
+  },
+  "dns_prefetching": {
+    "enabled": false
+  },
+  "domain_diversity": {
+    "last_reporting_timestamp": "13326307469449930"
+  },
+  "download": {
+    "directory_upgrade": true
+  },
+  "extensions": {
+    "alerts": {
+      "initialized": true
+    },
+    "chrome_url_overrides": {},
+    "last_chrome_version": "112.1.50.119"
+  },
+  "gcm": {
+    "product_category_for_subtypes": "com.brave.windows"
+  },
+  "google": {
+    "services": {
+      "consented_to_sync": false,
+      "signin_scoped_device_id": "bc58f5b1-c93f-4001-bc87-554d1da52044"
+    }
+  },
+  "intl": {
+    "selected_languages": "en-US,en"
+  },
+  "invalidation": {
+    "per_sender_topics_to_handler": {
+      "1013309121859": {},
+      "8181035976": {}
+    }
+  },
+  "media": {
+    "device_id_salt": "157D8C7A6EEA2E7C6EEE4BBEB4430BD0",
+    "engagement": {
+      "schema_version": 5
+    }
+  },
+  "media_router": {
+    "enable_media_router": false
+  },
+  "ntp": {
+    "num_personal_suggestions": 0
+  },
+  "prefetch": {
+    "search_prefetch": {
+      "cache": {}
+    }
+  },
+  "privacy_sandbox": {
+    "anti_abuse_initialized": true,
+    "apis_enabled": false,
+    "topics_data_accessible_since": "13309363559620283"
+  },
+  "profile": {
+    "avatar_index": 26,
+    "content_settings": {
+      "enable_quiet_permission_ui_enabling_method": {
+        "notifications": 1
+      },
+      "exceptions": {
+        "accessibility_events": {},
+        "anti_abuse": {},
+        "app_banner": {},
+        "ar": {},
+        "auto_select_certificate": {},
+        "automatic_downloads": {},
+        "autoplay": {},
+        "background_sync": {},
+        "bluetooth_chooser_data": {},
+        "bluetooth_guard": {},
+        "bluetooth_scanning": {},
+        "braveShields": {},
+        "braveSpeedreader": {},
+        "brave_ethereum": {},
+        "brave_google_sign_in": {},
+        "brave_solana": {},
+        "camera_pan_tilt_zoom": {},
+        "client_hints": {},
+        "clipboard": {},
+        "cookies": {},
+        "cosmeticFiltering": {},
+        "durable_storage": {},
+        "fedcm_active_session": {},
+        "fedcm_idp_registration": {},
+        "fedcm_idp_signin": {},
+        "fedcm_share": {},
+        "file_system_access_chooser_data": {},
+        "file_system_last_picked_directory": {},
+        "file_system_read_guard": {},
+        "file_system_write_guard": {},
+        "fingerprintingV2": {},
+        "formfill_metadata": {},
+        "geolocation": {},
+        "get_display_media_set_select_all_screens": {},
+        "hid_chooser_data": {},
+        "hid_guard": {},
+        "httpUpgradableResources": {},
+        "http_allowed": {},
+        "httpsUpgrades": {},
+        "idle_detection": {},
+        "images": {},
+        "important_site_info": {},
+        "insecure_private_network": {},
+        "intent_picker_auto_display": {},
+        "javascript": {},
+        "javascript_jit": {},
+        "legacy_cookie_access": {},
+        "local_fonts": {},
+        "media_engagement": {},
+        "media_stream_camera": {},
+        "media_stream_mic": {},
+        "midi_sysex": {},
+        "mixed_script": {},
+        "nfc_devices": {},
+        "notification_interactions": {},
+        "notification_permission_review": {},
+        "notifications": {},
+        "password_protection": {},
+        "payment_handler": {},
+        "permission_autoblocking_data": {},
+        "permission_autorevocation_data": {},
+        "popups": {},
+        "private_network_chooser_data": {},
+        "private_network_guard": {},
+        "protected_media_identifier": {},
+        "protocol_handler": {},
+        "reduced_accept_language": {},
+        "referrers": {},
+        "safe_browsing_url_check_data": {},
+        "sensors": {},
+        "serial_chooser_data": {},
+        "serial_guard": {},
+        "shieldsAds": {},
+        "shieldsCookies": {},
+        "shieldsCookiesV3": {},
+        "site_engagement": {},
+        "sound": {},
+        "ssl_cert_decisions": {},
+        "storage_access": {},
+        "subresource_filter": {},
+        "subresource_filter_data": {},
+        "top_level_storage_access": {},
+        "trackers": {},
+        "unused_site_permissions": {},
+        "usb_chooser_data": {},
+        "usb_guard": {},
+        "vr": {},
+        "webid_api": {},
+        "webid_auto_reauthn": {},
+        "window_placement": {}
+      },
+      "pattern_pairs": {
+        "https://*,*": {
+          "media-stream": {
+            "audio": "Default",
+            "video": "Default"
+          }
+        }
+      },
+      "permission_actions": {},
+      "pref_version": 1
+    },
+    "cookie_controls_mode": 1,
+    "creation_time": "13300047310787092",
+    "default_content_setting_values": {
+      "anti_abuse": 2,
+      "cookies": 1,
+      "geolocation": 1
+    },
+    "default_content_settings": {
+      "geolocation": 1,
+      "mouselock": 1,
+      "notifications": 1,
+      "popups": 1,
+      "ppapi-broker": 1
+    },
+    "exit_type": "Normal",
+    "last_engagement_time": "13309336553373396",
+    "last_time_obsolete_http_credentials_removed": 1664042957.699754,
+    "last_time_password_store_metrics_reported": 1664889871.288891,
+    "managed_user_id": "",
+    "name": "Profile 1",
+    "password_manager_enabled": false,
+    "were_old_google_logins_removed": true
+  },
+  "safebrowsing": {
+    "enabled": false,
+    "event_timestamps": {},
+    "metrics_last_log_time": "13326307468"
+  },
+  "search": {
+    "suggest_enabled": false
+  },
+  "sessions": {
+    "event_log": [
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309237847293998",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309262435368616",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309262547594763",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309286855398672",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309286967391315",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309311465979499",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309311577359843",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309336438432863",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309336558704155",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13309363441273778",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 9,
+        "time": "13309363564530868",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13326307468548929",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 1,
+        "time": "13326307474360046",
+        "type": 2,
+        "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13326307475850545",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 1,
+        "time": "13326307477885799",
+        "type": 2,
+        "window_count": 1
+      }
+    ],
+    "session_data_status": 3
+  },
+  "settings": {
+    "a11y": {
+      "apply_page_colors_only_on_increased_contrast": true
+    }
+  },
+  "signin": {
+    "allowed": false
+  },
+  "spellcheck": {
+    "dictionaries": [
+      "en-US"
+    ],
+    "dictionary": "",
+    "use_spelling_service": false
+  },
+  "sync": {
+    "requested": false
+  },
+  "translate": {
+    "enabled": false
+  },
+  "translate_site_blacklist": [],
+  "translate_site_blacklist_with_time": {},
+  "translate_site_blocklist_with_time": {},
+  "unified_consent": {
+    "migration_state": 10
+  },
+  "web_apps": {
+    "did_migrate_default_chrome_apps": [
+      "MigrateDefaultChromeAppToWebAppsGSuite",
+      "MigrateDefaultChromeAppToWebAppsNonGSuite"
+    ],
+    "last_preinstall_synchronize_version": "106",
+    "system_web_app_failure_count": 0,
+    "system_web_app_last_attempted_language": "en-US",
+    "system_web_app_last_attempted_update": "103.1.41.100",
+    "system_web_app_last_installed_language": "en-US",
+    "system_web_app_last_update": "103.1.41.100"
+  },
+  "zerosuggest": {
+    "cachedresults": "",
+    "cachedresults_with_url": {}
+  }
+}
