@@ -19,15 +19,15 @@
     "brave_ads": {
       "ads_per_hour": "10",
       "automatically_detected_ads_subdivision_targeting_code": "US-CA",
-      "catalog_id": "8b2aeab79ef205da2b094815ee821f56a0bf7c3f",
-      "catalog_last_updated": "13309363447300912",
+      "catalog_id": "219b1d35be0e378194eb59f022ea3f50069f53ce",
+      "catalog_last_updated": "13326307602879429",
       "catalog_ping": "7200000",
       "catalog_version": 9,
       "client": {
-        "hash": "3318171088"
+        "hash": "430120747"
       },
       "confirmations": {
-        "hash": "160073691"
+        "hash": "1734011539"
       },
       "enabled": true,
       "epsilon_greedy_bandit_arms": "{\"architecture\":{\"pulls\":0,\"segment\":\"architecture\",\"value\":1.0},\"arts & entertainment\":{\"pulls\":0,\"segment\":\"arts & entertainment\",\"value\":1.0},\"automotive\":{\"pulls\":0,\"segment\":\"automotive\",\"value\":1.0},\"business\":{\"pulls\":0,\"segment\":\"business\",\"value\":1.0},\"careers\":{\"pulls\":0,\"segment\":\"careers\",\"value\":1.0},\"cell phones\":{\"pulls\":0,\"segment\":\"cell phones\",\"value\":1.0},\"crypto\":{\"pulls\":0,\"segment\":\"crypto\",\"value\":1.0},\"drugs\":{\"pulls\":0,\"segment\":\"drugs\",\"value\":1.0},\"education\":{\"pulls\":0,\"segment\":\"education\",\"value\":1.0},\"family & parenting\":{\"pulls\":0,\"segment\":\"family & parenting\",\"value\":1.0},\"fashion\":{\"pulls\":0,\"segment\":\"fashion\",\"value\":1.0},\"folklore\":{\"pulls\":0,\"segment\":\"folklore\",\"value\":1.0},\"food & drink\":{\"pulls\":0,\"segment\":\"food & drink\",\"value\":1.0},\"health & fitness\":{\"pulls\":0,\"segment\":\"health & fitness\",\"value\":1.0},\"history\":{\"pulls\":0,\"segment\":\"history\",\"value\":1.0},\"hobbies & interests\":{\"pulls\":0,\"segment\":\"hobbies & interests\",\"value\":1.0},\"home\":{\"pulls\":0,\"segment\":\"home\",\"value\":1.0},\"law\":{\"pulls\":0,\"segment\":\"law\",\"value\":1.0},\"military\":{\"pulls\":0,\"segment\":\"military\",\"value\":1.0},\"personal finance\":{\"pulls\":0,\"segment\":\"personal finance\",\"value\":1.0},\"pets\":{\"pulls\":0,\"segment\":\"pets\",\"value\":1.0},\"politics\":{\"pulls\":0,\"segment\":\"politics\",\"value\":1.0},\"real estate\":{\"pulls\":0,\"segment\":\"real estate\",\"value\":1.0},\"religion\":{\"pulls\":0,\"segment\":\"religion\",\"value\":1.0},\"science\":{\"pulls\":0,\"segment\":\"science\",\"value\":1.0},\"society\":{\"pulls\":0,\"segment\":\"society\",\"value\":1.0},\"sports\":{\"pulls\":0,\"segment\":\"sports\",\"value\":1.0},\"technology & computing\":{\"pulls\":0,\"segment\":\"technology & computing\",\"value\":1.0},\"travel\":{\"pulls\":0,\"segment\":\"travel\",\"value\":1.0},\"weather\":{\"pulls\":0,\"segment\":\"weather\",\"value\":1.0}}",
@@ -49,19 +49,51 @@
             },
             {
               "associatedValue": "0.15",
+              "publicKey": "/P22+13nZtVJNceKO6c5m+/4jKR7zfvmjCWpD+2aLlg="
+            },
+            {
+              "associatedValue": "0.15",
               "publicKey": "0sJpOreKBZoePY21YCjfnvMUcjzBbP9ddwlmaadDQEg="
+            },
+            {
+              "associatedValue": "0.005",
+              "publicKey": "0v+HxNSBw1rE7WA8ei1Gf5fmmo8Ol+OyCMkg/SZPFn0="
+            },
+            {
+              "associatedValue": "0.3",
+              "publicKey": "2NhyCLgzH/G8HIScongDWLtgVM5IDuwh/jl1INET5jI="
             },
             {
               "associatedValue": "0",
               "publicKey": "3Cs+r50yDnc/z7Y588QIrelq+JkUlvzYN0ZhlU+PDWA="
             },
             {
+              "associatedValue": "0.01",
+              "publicKey": "3vq3wOHUqqY/FLW0gIaDc49zMRLtA6ZibxMxxCBeUX4="
+            },
+            {
+              "associatedValue": "0.1",
+              "publicKey": "4LpXs3ihaRMu+Lk0KAUzXNmlIsuqiV47NMLbDwn0eWg="
+            },
+            {
               "associatedValue": "0.3",
               "publicKey": "6Orbju/jPQQGldu/MVyBi2wXKz8ynHIcdsbCWc9gGHQ="
             },
             {
+              "associatedValue": "0.1",
+              "publicKey": "6hk3O1Q5PKzCCN6Xw7ipgoOOxDl8gqP976YWyqIsYiM="
+            },
+            {
+              "associatedValue": "0.001",
+              "publicKey": "8LYOZh4f7pllK/f79AtlkNx0Qbg2zSUz9Hw5DTrinCI="
+            },
+            {
               "associatedValue": "0.025",
               "publicKey": "AE7e4Rh38yFmnyLyPYcyWKT//zLOsEEX+WdLZqvJxH0="
+            },
+            {
+              "associatedValue": "0.025",
+              "publicKey": "Aoj8Kcc/sXf65nRB8tZhWaZZPnJmEEnMAkGnufJvCiU="
             },
             {
               "associatedValue": "0.1",
@@ -76,8 +108,20 @@
               "publicKey": "ECEKAGeRCNmAWimTs7fo0tTMcg8Kcmoy8w+ccOSYXT8="
             },
             {
+              "associatedValue": "0.001",
+              "publicKey": "FNh/9xvm7kpuOZajWiIdInUHOs0vCDYXMZU7k1XUVx8="
+            },
+            {
               "associatedValue": "0.005",
               "publicKey": "HjID7G6LRrcRu5ezW0nLZtEARIBnjpaQFKTHChBuJm8="
+            },
+            {
+              "associatedValue": "0.01",
+              "publicKey": "HnMsktYERClp2MthoEUQnSBD/qE717DkgbuYEkUyYm4="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "IK1PKzjuvvZEQ7nuV/MEdSbUn/BxFycdi0x9QS4YyUE="
             },
             {
               "associatedValue": "0.01",
@@ -93,6 +137,14 @@
             },
             {
               "associatedValue": "0.025",
+              "publicKey": "MMaumKi3LRS2D+5wnQpUYhQLCYtb7SOvP4dGvHtQL0E="
+            },
+            {
+              "associatedValue": "0.2",
+              "publicKey": "Mhqjie5P4KboV9gp17DhPxChcLlYe4zPonrjf8Q+LHo="
+            },
+            {
+              "associatedValue": "0.025",
               "publicKey": "Mljxb+QtKKaf8+CUMsEBdNoh6HjrU/8zoe6P9wgMYB0="
             },
             {
@@ -100,8 +152,48 @@
               "publicKey": "PnOomxXYyt82/qcaiuGHmVd16Q4UPQ9aL1u8xdl8fho="
             },
             {
+              "associatedValue": "0.15",
+              "publicKey": "QMDI0kdDzlvOqoVqJXOTkHC5uAgkxn8cT4NQL25ufy0="
+            },
+            {
+              "associatedValue": "0.05",
+              "publicKey": "Ro6zQ7IOs7SFSfJo5G/VppvAoW1V92Opakob7iFzNHw="
+            },
+            {
+              "associatedValue": "0.25",
+              "publicKey": "Rpjd1GtfYkCbYhv0p9tuO99KSRHUIac345UBufZrMDY="
+            },
+            {
+              "associatedValue": "0.3",
+              "publicKey": "SJRMTNe3SsfquVqJwkhznsLu++738y1onqQuebcmKlw="
+            },
+            {
+              "associatedValue": "0.001",
+              "publicKey": "SKVqjnKcYZkFQc02o6SdJ2I0p+aLLHD2GBxXkLT+JTM="
+            },
+            {
+              "associatedValue": "0.2",
+              "publicKey": "TA2P9VjPvqnLP+Z1TtmNFmHnxRtFjF/QUV4nfsVAgU0="
+            },
+            {
               "associatedValue": "0.2",
               "publicKey": "TBIHZVysvMR9o0mAZR+RyeB8turkFx/0qKry/xq2gHU="
+            },
+            {
+              "associatedValue": "0.025",
+              "publicKey": "TJ5dgUC3mY05ie11dAnNlqWaCHkMttpUh0JYGPlJMFE="
+            },
+            {
+              "associatedValue": "0.01",
+              "publicKey": "TKWhoD4XOGJWyXzTcAPiKeqejHEcSwFkSk0eCsNDqh8="
+            },
+            {
+              "associatedValue": "0.05",
+              "publicKey": "UnZWphe7TvOwvy/fvv3fKzblzJ2MOo5hEqLpIkErzHA="
+            },
+            {
+              "associatedValue": "0.0025",
+              "publicKey": "UvfaEsDiGA8E7aMXIGujmINk3HZj+PH7xw66Zg/qKlc="
             },
             {
               "associatedValue": "0.0025",
@@ -116,24 +208,76 @@
               "publicKey": "XOQaXHAxsCRXIPDt1tXhP4ajB5jXLbug75JUF9o1BH4="
             },
             {
+              "associatedValue": "0.05",
+              "publicKey": "YpHeNM2L2HCJRN3hNsKMeQQcNQZJ68b+pqZysm71eCc="
+            },
+            {
               "associatedValue": "0.001",
               "publicKey": "Yr6rIDKVzv/Sg3x/z67J8J7S260Weft8jDZBlmkqGDE="
+            },
+            {
+              "associatedValue": "0.0025",
+              "publicKey": "ZmhOf2Nmn0+oi0lHsbY71fo6ce+hyLcYqYxWHOBk6ys="
             },
             {
               "associatedValue": "0.0025",
               "publicKey": "ZuVWlXTEqCDchcIwdaHN216JlU9kmi9Ugp00fpXbPyg="
             },
             {
+              "associatedValue": "0.005",
+              "publicKey": "ah5av+9ZXRz+FhNR/NLvFdh4SgGq5R7EogxEUx/4Pgk="
+            },
+            {
+              "associatedValue": "0.0025",
+              "publicKey": "fNROhftWUTEbRn9LSGFQpqqGAY2Y04wnZDF4falPHBQ="
+            },
+            {
+              "associatedValue": "0.15",
+              "publicKey": "fv1VSuTRXvcjaRMhgNNidPPfj+Iq1zdIagPfDVz8qw4="
+            },
+            {
               "associatedValue": "0.15",
               "publicKey": "hJP1nDjTdHcVDw347oH0XO+XBPPh5wZA2xWZE8QUSSA="
+            },
+            {
+              "associatedValue": "0.2",
+              "publicKey": "ivCaeDhWHYJXxf5tFuQPqKZO8W0O3sRJkp2yR2IKpg0="
+            },
+            {
+              "associatedValue": "0.1",
+              "publicKey": "kNfc8Eqsuzz8Bpz+d5uphipXORpbVtl3SkDQoEHvzn4="
             },
             {
               "associatedValue": "0.001",
               "publicKey": "lOW18b/zE/5AGDRUI9cSnuYrZASiedDU7pYNjstbbkE="
             },
             {
+              "associatedValue": "0",
+              "publicKey": "mqpI0lLUtFWJYrOVMWCQBrRHfvTQ1E1Lh+zjB9hXMjY="
+            },
+            {
               "associatedValue": "0.25",
               "publicKey": "rCgcdNOOAhMVr2b0bZvcrZdnoeX6sdpRXXfb115x6BM="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "riWYEhNrv6TVNQ1dbz6sMe15fc13pN01jsqYS0yQ8Uc="
+            },
+            {
+              "associatedValue": "0.25",
+              "publicKey": "tr+Gjv3jI4cTVEUf9s3Enl0OlyR9WGKQTdazQxNoqm0="
+            },
+            {
+              "associatedValue": "0.25",
+              "publicKey": "vNQX1+4Cex7UAzs4tsedn2Thkr/loQ6+AkK1DSH2bQY="
+            },
+            {
+              "associatedValue": "0.3",
+              "publicKey": "vgkzErY+anXGjSyZisYylOFkbOjw2E+jgkcsYa4IPn4="
+            },
+            {
+              "associatedValue": "0.005",
+              "publicKey": "wEd467CPPat+GgcpLTjMxovTIgdQmphO9UIy7dwliG4="
             },
             {
               "associatedValue": "0.01",
@@ -144,6 +288,18 @@
         {
           "name": "confirmations",
           "publicKeys": [
+            {
+              "associatedValue": "0",
+              "publicKey": "+jjJph8q6xE000cvF2YANYjHzZPEDWB0AZLC3ik5rR4="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "Si61i/8huYsx01ED6SZIOvDuD6GQV5LAi2CMu3NAVCQ="
+            },
+            {
+              "associatedValue": "0",
+              "publicKey": "fgP2QLMEDy0OTbkS3h/JJ3R0HgdMpKAGcoQAAZbSyBk="
+            },
             {
               "associatedValue": "0",
               "publicKey": "oMx8hW6w8w/AUGoJMAMbrdeV1FoqrRkoR3BVa+5lDDk="
@@ -171,6 +327,16 @@
         "next_time_redemption_at": "13309399892113024"
       },
       "should_allow_ads_subdivision_targeting": true,
+      "state": {
+        "has_migrated": {
+          "client": {
+            "v5": true
+          },
+          "confirmations": {
+            "v5": true
+          }
+        }
+      },
       "were_disabled": false
     },
     "default_private_search_provider_data": {
@@ -219,6 +385,13 @@
     "new_tab_page": {
       "hide_all_widgets": false
     },
+    "news": {
+      "channels": {
+        "en_US": {
+          "Top Sources": true
+        }
+      }
+    },
     "other_bookmarks_migrated": true,
     "rewards": {
       "ac": {
@@ -230,7 +403,9 @@
         }
       },
       "ads_enabled_timestamp": "13300047316038293",
+      "badge_text": "",
       "creation_stamp": "1655573716",
+      "declared_geo": "US",
       "empty_balance_checked": true,
       "enabled": true,
       "fetch_old_balance": false,
@@ -246,14 +421,89 @@
           "choices": "[1.0,2.0,3.0,5.0,7.0,10.0,20.0]"
         },
         "payout_status": "{\"bitflyer\":\"off\",\"gemini\":\"off\",\"unverified\":\"off\",\"uphold\":\"off\"}",
-        "rate": 0.306752,
+        "rate": 0.282544,
         "tip": {
           "choices": "[1.0,5.0,10.0]",
           "monthly_choices": "[1.0,5.0,10.0]"
+        },
+        "vbat_deadline": "0",
+        "vbat_expired": false,
+        "wallet_provider_regions": {
+          "bitflyer": {
+            "allow": [
+              "JP"
+            ],
+            "block": []
+          },
+          "gemini": {
+            "allow": [
+              "US"
+            ],
+            "block": []
+          },
+          "uphold": {
+            "allow": [
+              "AD",
+              "AU",
+              "AR",
+              "AT",
+              "BE",
+              "BR",
+              "BS",
+              "BZ",
+              "CA",
+              "CH",
+              "CL",
+              "CO",
+              "CR",
+              "CY",
+              "CZ",
+              "DK",
+              "EC",
+              "EE",
+              "FI",
+              "FR",
+              "GD",
+              "GT",
+              "GR",
+              "HK",
+              "HN",
+              "HU",
+              "IE",
+              "IS",
+              "IT",
+              "JM",
+              "KY",
+              "LI",
+              "LT",
+              "LV",
+              "LU",
+              "MC",
+              "MT",
+              "MX",
+              "NI",
+              "NO",
+              "NZ",
+              "PE",
+              "PL",
+              "PT",
+              "PY",
+              "SG",
+              "TR",
+              "UY",
+              "ES",
+              "SE",
+              "GB",
+              "US",
+              "UM",
+              "ZA"
+            ],
+            "block": []
+          }
         }
       },
       "promotion_corrupted_migrated2": true,
-      "promotion_last_fetch_stamp": "1664889845",
+      "promotion_last_fetch_stamp": "1681833997",
       "publisher_prefix_list_stamp": "1664666468",
       "scheduled_captcha": {
         "failed_attempts": 0,
@@ -263,6 +513,7 @@
         "snooze_count": 0
       },
       "version": 13,
+      "wallet_creation_environment": 1,
       "wallets": {
         "brave": "{\"payment_id\":\"4740e0bc-ea01-4a81-8016-ce07458e943f\",\"recovery_seed\":\"qI5JGwh7G4GaaR7bTkxSM+Xw3iKWkjWHI+gtjzCu9Q0=\"}",
         "uphold": "djEwddIiht16EmY5qvo7pnEacUaUhMm9jbKHZw6fEKXtUQCpfsN239Wn/eQy9VkBHl9Z1Hv9s6LKKvjfv4Y2dLMgv68JrS/WKzoBqNKBzcx68dHjPio8G8Qm+FxW5ftRlqrZV5ya7qVcaX8TbyOac4oWxvfyzYqKKfoc8cfk06h38p2ch2YMDpJyD32bBOKeE+5cWku1igYVo639e35Mm3cG9VwVMSyKNWahZsjnG1h2GF8HvARxbXPlhORRaXMz/JhPqBQcT6MHkuhyETJNDMg02HS49yTzzzmU76tTsn4xcPXhKEYFlq52kFN01FKW9C9q8KaA3qMF7cA+N7B+1KbNdcVwy8SotjMWM4ZAVPHCrC57NFoYwYb/iFk5sTh2ADL/ywwjFAEy8+5Jd36R8MrJTiUyRSRTm7Y0lOWsTvnQNU0sFxWm6aJhj3+aYnCq3kLZZHnvQEL86+6MGUqgBp2r2HQKTDBsiio9mzIXUeN7U/iTFjjFxZSdeB5SUo7V27lynt2hEy5v7dxcbv7i9wPui72FRRWaUfrw/TWusKmSmTIbYyupipAoQRA/WI8fCh1Ly3lLr8xQZsqyu745bSaAPbOiP8VDoPPMrxYbkm5RZ1GLS7zSM8cRUtGuhPp4dJ2cCAJfI4vmcKYGs9vFIFDjc7b87w0rZV2/nQScJ+mIhKGL+byRxTKW7RAKQoLRR+APNmhdfVyhfPFW2D1h0MAtjUz/KNSbo03w7XhThXwtUefGRcuXFTppiYKIZ6LL07hSSxulL+6ueSNK4AZsah05AlfpjXXc7xJqtxyeFMmf6yjNfqpio+EehjQswRXDqSXPYL5NO4f2rex5wJKow1Is54qBC2Rbb44d"
@@ -1344,6 +1595,19 @@
         "time": "13326307477885799",
         "type": 2,
         "window_count": 1
+      },
+      {
+        "crashed": false,
+        "time": "13326307584108647",
+        "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 1,
+        "time": "13326307609873193",
+        "type": 2,
+        "window_count": 1
       }
     ],
     "session_data_status": 3
@@ -1380,7 +1644,7 @@
       "MigrateDefaultChromeAppToWebAppsGSuite",
       "MigrateDefaultChromeAppToWebAppsNonGSuite"
     ],
-    "last_preinstall_synchronize_version": "106",
+    "last_preinstall_synchronize_version": "112",
     "system_web_app_failure_count": 0,
     "system_web_app_last_attempted_language": "en-US",
     "system_web_app_last_attempted_update": "103.1.41.100",
