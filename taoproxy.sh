@@ -419,12 +419,12 @@ fi
 fi
 echo -e ""
 echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 700."
-read noProxyIPv6
+
 if [[ -z "$noProxyIPv6" ]]; then
 noProxyIPv6=700
 fi
 echo -e "Neu ban muon tao user/pass giong nhau cho tat ca proxy, nhap PASSWORD vao ben duoi. BO TRONG neu muon tao password ngau nhien."
-read pwProxyIPv6
+
 generateData $noProxyIPv6 $ipv4 $prefix $ipv6mask $pwProxyIPv6 >> $WORKDATA
 generateFirewall
 generateProxyConfig $pwProxyIPv6
