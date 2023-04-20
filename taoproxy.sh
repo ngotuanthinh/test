@@ -418,10 +418,10 @@ sed -i "/LimitNPROC=/c\LimitNPROC=9999999" /etc/sysctl.conf
 fi
 fi
 echo -e ""
-echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 1."
+echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 700."
 read noProxyIPv6
 if [[ -z "$noProxyIPv6" ]]; then
-noProxyIPv6=1
+noProxyIPv6=700
 fi
 echo -e "Neu ban muon tao user/pass giong nhau cho tat ca proxy, nhap PASSWORD vao ben duoi. BO TRONG neu muon tao password ngau nhien."
 read pwProxyIPv6
