@@ -195,12 +195,12 @@ setgid 65535
 setuid 65535
 stacksize 6291456
 flush
-auth strong
+auth none
 EOF
 if [[ -f ${WORKDATA} ]] ; then
 cat <<EOF >>/etc/3proxy/3proxy.cfg
 users $(awk -F "/" 'BEGIN{ORS="";} {print $1 ":CL:" $2 " "}' ${WORKDATA})
-$(awk -F "/" '{print "auth strong\n" \
+$(awk -F "/" '{print "auth none\n" \
 "allow " $1 "\n" \
 "proxy -6 -n -a -p" $4 " -i" $3 " -e"$5"\n" \
 "flush\n"}' ${WORKDATA})
@@ -421,7 +421,7 @@ echo -e ""
 echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 700."
 
 if [[ -z "$noProxyIPv6" ]]; then
-noProxyIPv6=700
+noProxyIPv6=2000
 fi
 echo -e "Neu ban muon tao user/pass giong nhau cho tat ca proxy, nhap PASSWORD vao ben duoi. BO TRONG neu muon tao password ngau nhien."
 
