@@ -155,7 +155,7 @@ FILE=/etc/3proxy/maxport.conf
 if test -f "$FILE"; then
 minPort=$(cat "$FILE")
 else
-minPort=10000
+minPort=2000
 fi
 maxPort=$(( $minPort + $totalProxy ))
 proxyUser="lev"
@@ -421,7 +421,7 @@ echo -e ""
 echo -e "Nhap so luong Proxy IPv6 ban muon tao. Mac dinh: 700."
 
 if [[ -z "$noProxyIPv6" ]]; then
-noProxyIPv6=2000
+noProxyIPv6=500
 fi
 echo -e "Neu ban muon tao user/pass giong nhau cho tat ca proxy, nhap PASSWORD vao ben duoi. BO TRONG neu muon tao password ngau nhien."
 
