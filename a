@@ -15,60 +15,97 @@
   },
   "brave": {
     "brave_ads": {
+      "notification_ads": [],
       "prefs": {
         "version": 12
       }
     },
+    "de_amp": {
+      "enabled": false
+    },
+    "debounce": {
+      "enabled": false
+    },
     "default_private_search_provider_data": {
-      "alternate_urls": [],
-      "contextual_search_url": "",
+      "alternate_urls": [
+        "{google:baseURL}#q={searchTerms}",
+        "{google:baseURL}search#q={searchTerms}",
+        "{google:baseURL}webhp#q={searchTerms}",
+        "{google:baseURL}s#q={searchTerms}",
+        "{google:baseURL}s?q={searchTerms}"
+      ],
+      "contextual_search_url": "{google:baseURL}_/contextualsearch?{google:contextualSearchVersion}{google:contextualSearchContextData}",
       "created_by_policy": false,
       "created_from_play_api": false,
       "date_created": "0",
       "doodle_url": "",
       "enforced_by_policy": false,
-      "favicon_url": "https://cdn.search.brave.com/serp/favicon.ico",
-      "id": "0",
+      "favicon_url": "https://www.google.com/images/branding/product/ico/googleg_lodp.ico",
+      "id": "3",
       "image_search_branding_label": "",
-      "image_translate_source_language_param_key": "",
-      "image_translate_target_language_param_key": "",
-      "image_translate_url": "",
-      "image_url": "",
-      "image_url_post_params": "",
+      "image_translate_source_language_param_key": "sourcelang",
+      "image_translate_target_language_param_key": "targetlang",
+      "image_translate_url": "{google:baseSearchByImageURL}upload?filtertype=tr&{imageTranslateSourceLocale}{imageTranslateTargetLocale}",
+      "image_url": "{google:baseSearchByImageURL}upload",
+      "image_url_post_params": "encoded_image={google:imageThumbnail},image_url={google:imageURL},sbisrc={google:imageSearchSource},original_width={google:imageOriginalWidth},original_height={google:imageOriginalHeight},processed_image_dimensions={google:processedImageDimensions}",
       "input_encodings": [
         "UTF-8"
       ],
       "is_active": 0,
-      "keyword": ":br",
+      "keyword": ":g",
       "last_modified": "0",
       "last_visited": "0",
       "logo_url": "",
       "new_tab_url": "",
       "originating_url": "",
-      "preconnect_to_search_url": false,
-      "prefetch_likely_navigations": false,
-      "prepopulate_id": 550,
+      "preconnect_to_search_url": true,
+      "prefetch_likely_navigations": true,
+      "prepopulate_id": 1,
       "safe_for_autoreplace": true,
-      "search_intent_params": [],
+      "search_intent_params": [
+        "si",
+        "gs_ssp"
+      ],
       "search_url_post_params": "",
-      "short_name": "Brave",
-      "side_image_search_param": "",
-      "side_search_param": "",
+      "short_name": "Google",
+      "side_image_search_param": "sideimagesearch",
+      "side_search_param": "sidesearch",
       "starter_pack_id": 0,
-      "suggestions_url": "https://search.brave.com/api/suggest?q={searchTerms}",
+      "suggestions_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
       "suggestions_url_post_params": "",
-      "synced_guid": "485bf7d3-0215-45af-87dc-538868000550",
-      "url": "https://search.brave.com/search?q={searchTerms}&source=desktop",
+      "synced_guid": "485bf7d3-0215-45af-87dc-538868000001",
+      "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:iOSSearchLanguage}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}",
       "usage_count": 0
     },
-    "default_private_search_provider_guid": "485bf7d3-0215-45af-87dc-538868000550",
+    "default_private_search_provider_guid": "485bf7d3-0215-45af-87dc-538868000001",
     "enable_media_router_on_restart": false,
+    "enable_window_closing_confirm": false,
     "new_tab_page": {
       "hide_all_widgets": false
     },
     "other_bookmarks_migrated": true,
+    "reduce_language": false,
+    "rewards": {
+      "notifications": "{\"displayed\":[],\"notifications\":[]}",
+      "scheduled_captcha": {
+        "failed_attempts": 0,
+        "id": "",
+        "paused": false,
+        "payment_id": "",
+        "snooze_count": 0
+      }
+    },
     "search": {
-      "default_version": 25
+      "default_version": 25,
+      "p3a_default_switch": [
+        {
+          "day": "13332790800000000",
+          "value": 1
+        }
+      ]
+    },
+    "shields": {
+      "stats_badge_visible": false
     },
     "shields_fp_settings_migration": true,
     "shields_settings_version": 4,
@@ -153,7 +190,7 @@
       "bottom": 1030,
       "left": 10,
       "maximized": false,
-      "right": 955,
+      "right": 1384,
       "top": 10,
       "work_area_bottom": 1040,
       "work_area_left": 0,
@@ -164,6 +201,9 @@
   "commerce_daily_metrics_last_update_time": "13332846575035979",
   "countryid_at_install": 21843,
   "default_apps_install_state": 2,
+  "default_search_provider": {
+    "synced_guid": "485bf7d3-0215-45af-87dc-538868000001"
+  },
   "domain_diversity": {
     "last_reporting_timestamp": "13332846576365703"
   },
@@ -245,7 +285,16 @@
         "client_hints": {},
         "clipboard": {},
         "cookies": {},
-        "cosmeticFiltering": {},
+        "cosmeticFiltering": {
+          "*,*": {
+            "last_modified": "13332846755437073",
+            "setting": 1
+          },
+          "*,https://firstparty": {
+            "last_modified": "13332846755437085",
+            "setting": 1
+          }
+        },
         "durable_storage": {},
         "fedcm_active_session": {},
         "fedcm_idp_registration": {},
@@ -255,7 +304,12 @@
         "file_system_last_picked_directory": {},
         "file_system_read_guard": {},
         "file_system_write_guard": {},
-        "fingerprintingV2": {},
+        "fingerprintingV2": {
+          "*,*": {
+            "last_modified": "13332846756996885",
+            "setting": 1
+          }
+        },
         "formfill_metadata": {},
         "geolocation": {},
         "get_display_media_set_select_all_screens": {},
@@ -298,7 +352,12 @@
         "sensors": {},
         "serial_chooser_data": {},
         "serial_guard": {},
-        "shieldsAds": {},
+        "shieldsAds": {
+          "*,*": {
+            "last_modified": "13332846755436970",
+            "setting": 1
+          }
+        },
         "shieldsCookiesV3": {},
         "site_engagement": {},
         "sound": {},
@@ -308,7 +367,12 @@
         "subresource_filter_data": {},
         "third_party_storage_partitioning": {},
         "top_level_storage_access": {},
-        "trackers": {},
+        "trackers": {
+          "*,*": {
+            "last_modified": "13332846755437028",
+            "setting": 1
+          }
+        },
         "unused_site_permissions": {},
         "usb_chooser_data": {},
         "usb_guard": {},
@@ -324,10 +388,12 @@
     "default_content_setting_values": {
       "anti_abuse": 2
     },
-    "exit_type": "Crashed",
+    "exit_type": "Normal",
+    "last_time_obsolete_http_credentials_removed": 1688373034.923215,
     "last_time_password_store_metrics_reported": 1688373004.922937,
     "managed_user_id": "",
-    "name": "Profile 1"
+    "name": "Profile 1",
+    "were_old_google_logins_removed": true
   },
   "safebrowsing": {
     "event_timestamps": {},
@@ -339,9 +405,17 @@
         "crashed": false,
         "time": "13332846574931582",
         "type": 0
+      },
+      {
+        "did_schedule_command": true,
+        "first_session_service": true,
+        "tab_count": 3,
+        "time": "13332846765366688",
+        "type": 2,
+        "window_count": 1
       }
     ],
-    "session_data_status": 1
+    "session_data_status": 3
   },
   "settings": {
     "a11y": {
